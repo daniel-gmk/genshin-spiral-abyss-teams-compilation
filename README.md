@@ -6,6 +6,7 @@ This is a curated csv file of valid teams to use in the Spiral Abyss mode for th
 ## Who uses this list?
 - Genshin Randomizer (TBD)
 
+&nbsp;
 ## Criteria
 
 The criteria for a "valid team" will always be arbitrary, but the criteria used here is as follows:
@@ -21,6 +22,7 @@ Likely setups the average player has includes:
 - 4th ascension (60/70) support characters
 - Talent levels 6+ on most above characters for key abilities
 
+&nbsp;
 ## Aggregation Method
 
 Currently the data here is supplied by the following:
@@ -33,10 +35,12 @@ Currently the data here is supplied by the following:
 **Automated**
 - TBD
 
+&nbsp;
 ## Contributing
 
 Pull requests will NOT be taken. A website is planned for user submission or omission requests. In the meantime if there is a team you feel is missing or one that does not meet the above criteria, please create an issue.
 
+&nbsp;
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
