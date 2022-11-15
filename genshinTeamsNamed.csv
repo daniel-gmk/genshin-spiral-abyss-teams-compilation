@@ -2451,7 +2451,6 @@ Noelle,Gorou,Albedo,TravelerGeo
 Noelle,Gorou,Albedo,Ningguang
 Noelle,Gorou,Albedo,Yun Jin
 Noelle,Gorou,Albedo,Fischl
-Noelle,Gorou,Albedo,Beidou
 Noelle,Gorou,Albedo,Bennett
 Noelle,Gorou,Albedo,Xingqiu
 Noelle,Gorou,Albedo,Raiden
@@ -2462,7 +2461,6 @@ Noelle,Gorou,Zhongli,Ningguang
 Noelle,Gorou,Zhongli,Yun Jin
 Noelle,Gorou,Zhongli,Fischl
 Noelle,Gorou,Zhongli,Yelan
-Noelle,Gorou,Zhongli,Beidou
 Noelle,Gorou,Zhongli,Bennett
 Noelle,Gorou,Zhongli,Xingqiu
 Noelle,Gorou,Zhongli,Raiden
@@ -2472,7 +2470,6 @@ Noelle,Gorou,TravelerGeo,Ningguang
 Noelle,Gorou,TravelerGeo,Yelan
 Noelle,Gorou,TravelerGeo,Yun Jin
 Noelle,Gorou,TravelerGeo,Fischl
-Noelle,Gorou,TravelerGeo,Beidou
 Noelle,Gorou,TravelerGeo,Bennett
 Noelle,Gorou,TravelerGeo,Xingqiu
 Noelle,Gorou,TravelerGeo,Raiden
@@ -2481,7 +2478,6 @@ Noelle,Gorou,TravelerGeo,Kaeya
 Noelle,Gorou,Ningguang,Yun Jin
 Noelle,Gorou,Ningguang,Fischl
 Noelle,Gorou,Ningguang,Yelan
-Noelle,Gorou,Ningguang,Beidou
 Noelle,Gorou,Ningguang,Bennett
 Noelle,Gorou,Ningguang,Xingqiu
 Noelle,Gorou,Ningguang,Raiden
@@ -2489,13 +2485,11 @@ Noelle,Gorou,Ningguang,Rosaria
 Noelle,Gorou,Ningguang,Kaeya
 Noelle,Gorou,Yun Jin,Fischl
 Noelle,Gorou,Yun Jin,Yelan
-Noelle,Gorou,Yun Jin,Beidou
 Noelle,Gorou,Yun Jin,Bennett
 Noelle,Gorou,Yun Jin,Xingqiu
 Noelle,Gorou,Yun Jin,Raiden
 Noelle,Gorou,Yun Jin,Rosaria
 Noelle,Gorou,Yun Jin,Kaeya
-Noelle,Gorou,Fischl,Beidou
 Noelle,Gorou,Fischl,Bennett
 Noelle,Gorou,Fischl,Yelan
 Noelle,Gorou,Fischl,Xingqiu
@@ -2679,14 +2673,7 @@ Noelle,TravelerGeo,Yelan,Kaeya
 Noelle,TravelerGeo,Raiden,Rosaria
 Noelle,TravelerGeo,Raiden,Kaeya
 Noelle,TravelerGeo,Rosaria,Kaeya
-Noelle,Ningguang,Yun Jin,Fischl
-Noelle,Ningguang,Yun Jin,Beidou
-Noelle,Ningguang,Yun Jin,Bennett
-Noelle,Ningguang,Yun Jin,Xingqiu
 Noelle,Ningguang,Yelan,Xingqiu
-Noelle,Ningguang,Yun Jin,Raiden
-Noelle,Ningguang,Yun Jin,Rosaria
-Noelle,Ningguang,Yun Jin,Kaeya
 Noelle,Ningguang,Fischl,Beidou
 Noelle,Ningguang,Fischl,Bennett
 Noelle,Ningguang,Fischl,Xingqiu
@@ -3153,39 +3140,12 @@ Raiden,Mona,Kazuha,Jean
 Raiden,Mona,Kazuha,Sayu
 Raiden,Mona,Kazuha,Zhongli
 Raiden,Mona,Venti,Bennett
-Raiden,Mona,Venti,Kokomi
-Raiden,Mona,Venti,Shinobu
-Raiden,Mona,Venti,Qiqi
 Raiden,Mona,Venti,Jean
-Raiden,Mona,Venti,Sayu
-Raiden,Mona,Venti,Zhongli
 Raiden,Mona,Heizou,Bennett
 Raiden,Mona,Heizou,Kokomi
-Raiden,Mona,Heizou,Shinobu
-Raiden,Mona,Heizou,Qiqi
-Raiden,Mona,Heizou,Jean
-Raiden,Mona,Heizou,Sayu
-Raiden,Mona,Heizou,Zhongli
-Raiden,Mona,Sucrose,Bennett
 Raiden,Mona,Sucrose,Kokomi
-Raiden,Mona,Sucrose,Shinobu
-Raiden,Mona,Sucrose,Qiqi
-Raiden,Mona,Sucrose,Jean
-Raiden,Mona,Sucrose,Sayu
-Raiden,Mona,Sucrose,Zhongli
-Raiden,Mona,TravelerGeo,Bennett
-Raiden,Mona,TravelerGeo,Kokomi
-Raiden,Mona,TravelerGeo,Shinobu
-Raiden,Mona,TravelerGeo,Qiqi
-Raiden,Mona,TravelerGeo,Jean
-Raiden,Mona,TravelerGeo,Sayu
-Raiden,Mona,TravelerGeo,Zhongli
 Raiden,Mona,Albedo,Bennett
-Raiden,Mona,Albedo,Kokomi
-Raiden,Mona,Albedo,Shinobu
-Raiden,Mona,Albedo,Qiqi
 Raiden,Mona,Albedo,Jean
-Raiden,Mona,Albedo,Sayu
 Raiden,Mona,Albedo,Zhongli
 Raiden,Mona,Collei,Bennett
 Raiden,Mona,Collei,Kokomi
@@ -3562,34 +3522,7 @@ Raiden,Kazuha,TravelerDendro,Qiqi
 Raiden,Kazuha,TravelerDendro,Jean
 Raiden,Kazuha,TravelerDendro,Sayu
 Raiden,Kazuha,TravelerDendro,Zhongli
-Raiden,Venti,Heizou,Bennett
-Raiden,Venti,Heizou,Kokomi
-Raiden,Venti,Heizou,Shinobu
-Raiden,Venti,Heizou,Qiqi
-Raiden,Venti,Heizou,Jean
-Raiden,Venti,Heizou,Sayu
-Raiden,Venti,Heizou,Zhongli
-Raiden,Venti,Sucrose,Bennett
-Raiden,Venti,Sucrose,Kokomi
-Raiden,Venti,Sucrose,Shinobu
-Raiden,Venti,Sucrose,Qiqi
-Raiden,Venti,Sucrose,Jean
-Raiden,Venti,Sucrose,Sayu
-Raiden,Venti,Sucrose,Zhongli
-Raiden,Venti,TravelerGeo,Bennett
-Raiden,Venti,TravelerGeo,Kokomi
-Raiden,Venti,TravelerGeo,Shinobu
-Raiden,Venti,TravelerGeo,Qiqi
-Raiden,Venti,TravelerGeo,Jean
-Raiden,Venti,TravelerGeo,Sayu
-Raiden,Venti,TravelerGeo,Zhongli
 Raiden,Venti,Albedo,Bennett
-Raiden,Venti,Albedo,Kokomi
-Raiden,Venti,Albedo,Shinobu
-Raiden,Venti,Albedo,Qiqi
-Raiden,Venti,Albedo,Jean
-Raiden,Venti,Albedo,Sayu
-Raiden,Venti,Albedo,Zhongli
 Raiden,Venti,Collei,Bennett
 Raiden,Venti,Collei,Kokomi
 Raiden,Venti,Collei,Shinobu
