@@ -1542,12 +1542,6 @@ Ayato,Yun Jin,Fischl,Jean
 Ayato,Yun Jin,Fischl,Sayu
 Ayato,Yun Jin,Albedo,Barbara
 Ayato,Yun Jin,Albedo,Bennett
-Ayato,Kazuha,Heizou,Barbara
-Ayato,Kazuha,Heizou,Bennett
-Ayato,Kazuha,Sucrose,Barbara
-Ayato,Kazuha,Sucrose,Bennett
-Ayato,Kazuha,Venti,Barbara
-Ayato,Kazuha,Venti,Bennett
 Ayato,Kazuha,Xingqiu,Barbara
 Ayato,Kazuha,Xingqiu,Bennett
 Ayato,Kazuha,Xingqiu,Zhongli
@@ -1570,10 +1564,7 @@ Ayato,Kazuha,Raiden,Jean
 Ayato,Kazuha,Raiden,Sayu
 Ayato,Kazuha,Albedo,Barbara
 Ayato,Kazuha,Albedo,Bennett
-Ayato,Heizou,Sucrose,Barbara
 Ayato,Heizou,Sucrose,Bennett
-Ayato,Heizou,Venti,Barbara
-Ayato,Heizou,Venti,Bennett
 Ayato,Heizou,Xingqiu,Barbara
 Ayato,Heizou,Xingqiu,Bennett
 Ayato,Heizou,Xingqiu,Zhongli
@@ -1589,10 +1580,6 @@ Ayato,Heizou,Fischl,Bennett
 Ayato,Heizou,Fischl,Zhongli
 Ayato,Heizou,Fischl,Jean
 Ayato,Heizou,Fischl,Sayu
-Ayato,Heizou,Albedo,Barbara
-Ayato,Heizou,Albedo,Bennett
-Ayato,Sucrose,Venti,Barbara
-Ayato,Sucrose,Venti,Bennett
 Ayato,Sucrose,Xingqiu,Barbara
 Ayato,Sucrose,Xingqiu,Bennett
 Ayato,Sucrose,Xingqiu,Zhongli
@@ -1608,8 +1595,6 @@ Ayato,Sucrose,Fischl,Bennett
 Ayato,Sucrose,Fischl,Zhongli
 Ayato,Sucrose,Fischl,Jean
 Ayato,Sucrose,Fischl,Sayu
-Ayato,Sucrose,Albedo,Barbara
-Ayato,Sucrose,Albedo,Bennett
 Ayato,Venti,Xingqiu,Barbara
 Ayato,Venti,Xingqiu,Bennett
 Ayato,Venti,Xingqiu,Zhongli
@@ -1625,8 +1610,6 @@ Ayato,Venti,Fischl,Bennett
 Ayato,Venti,Fischl,Zhongli
 Ayato,Venti,Fischl,Jean
 Ayato,Venti,Fischl,Sayu
-Ayato,Venti,Albedo,Barbara
-Ayato,Venti,Albedo,Bennett
 Ayato,Xingqiu,Yelan,Barbara
 Ayato,Xingqiu,Yelan,Bennett
 Ayato,Xingqiu,Yelan,Zhongli
@@ -1657,31 +1640,12 @@ Ayato,Fischl,Albedo,Bennett
 Ayato,Fischl,Albedo,Zhongli
 Ayato,Fischl,Albedo,Jean
 Ayato,Fischl,Albedo,Sayu
-Ayato,Kazuha,Yun Jin,Xingqiu
-Ayato,Heizou,Yun Jin,Xingqiu
-Ayato,Sucrose,Yun Jin,Xingqiu
-Ayato,Venti,Yun Jin,Xingqiu
 Ayato,Yelan,Yun Jin,Xingqiu
 Ayato,Fischl,Yun Jin,Xingqiu
 Ayato,Albedo,Yun Jin,Xingqiu
-Ayato,Yun Jin,Sayu,Bennett
-Ayato,Kazuha,Sayu,Bennett
-Ayato,Heizou,Sayu,Bennett
-Ayato,Sucrose,Sayu,Bennett
-Ayato,Venti,Sayu,Bennett
 Ayato,Xingqiu,Sayu,Bennett
 Ayato,Yelan,Sayu,Bennett
 Ayato,Fischl,Sayu,Bennett
-Ayato,Albedo,Sayu,Bennett
-Ayato,Yun Jin,Barbara,Bennett
-Ayato,Kazuha,Barbara,Bennett
-Ayato,Heizou,Barbara,Bennett
-Ayato,Sucrose,Barbara,Bennett
-Ayato,Venti,Barbara,Bennett
-Ayato,Xingqiu,Barbara,Bennett
-Ayato,Yelan,Barbara,Bennett
-Ayato,Fischl,Barbara,Bennett
-Ayato,Albedo,Barbara,Bennett
 Ayato,Rosaria,Kaeya,Venti
 Ayato,Rosaria,Kaeya,Kazuha
 Ayato,Rosaria,Kaeya,Heizou
@@ -4244,20 +4208,6 @@ Tartaglia,Bennett,Xiangling,Xingqiu
 Tartaglia,Bennett,Xiangling,Collei
 Tartaglia,Bennett,Xiangling,Nahida
 Tartaglia,Bennett,Xiangling,TravelerDendro
-Tartaglia,Yun Jin,Kazuha,Barbara
-Tartaglia,Yun Jin,Kazuha,Bennett
-Tartaglia,Yun Jin,Kazuha,Zhongli
-Tartaglia,Yun Jin,Heizou,Barbara
-Tartaglia,Yun Jin,Heizou,Bennett
-Tartaglia,Yun Jin,Heizou,Zhongli
-Tartaglia,Yun Jin,Heizou,Jean
-Tartaglia,Yun Jin,Heizou,Sayu
-Tartaglia,Yun Jin,Sucrose,Barbara
-Tartaglia,Yun Jin,Sucrose,Bennett
-Tartaglia,Yun Jin,Sucrose,Zhongli
-Tartaglia,Yun Jin,Venti,Barbara
-Tartaglia,Yun Jin,Venti,Bennett
-Tartaglia,Yun Jin,Venti,Zhongli
 Tartaglia,Yun Jin,Xingqiu,Barbara
 Tartaglia,Yun Jin,Xingqiu,Bennett
 Tartaglia,Yun Jin,Xingqiu,Zhongli
@@ -4275,12 +4225,7 @@ Tartaglia,Yun Jin,Fischl,Jean
 Tartaglia,Yun Jin,Fischl,Sayu
 Tartaglia,Yun Jin,Albedo,Barbara
 Tartaglia,Yun Jin,Albedo,Bennett
-Tartaglia,Kazuha,Heizou,Barbara
-Tartaglia,Kazuha,Heizou,Bennett
 Tartaglia,Kazuha,Sucrose,Barbara
-Tartaglia,Kazuha,Sucrose,Bennett
-Tartaglia,Kazuha,Venti,Barbara
-Tartaglia,Kazuha,Venti,Bennett
 Tartaglia,Kazuha,Xingqiu,Barbara
 Tartaglia,Kazuha,Xingqiu,Bennett
 Tartaglia,Kazuha,Xingqiu,Zhongli
@@ -4294,8 +4239,6 @@ Tartaglia,Kazuha,Yelan,Sayu
 Tartaglia,Kazuha,Fischl,Barbara
 Tartaglia,Kazuha,Fischl,Bennett
 Tartaglia,Kazuha,Fischl,Zhongli
-Tartaglia,Kazuha,Fischl,Jean
-Tartaglia,Kazuha,Fischl,Sayu
 Tartaglia,Kazuha,Albedo,Barbara
 Tartaglia,Kazuha,Albedo,Bennett
 Tartaglia,Heizou,Sucrose,Barbara
@@ -4317,10 +4260,6 @@ Tartaglia,Heizou,Fischl,Bennett
 Tartaglia,Heizou,Fischl,Zhongli
 Tartaglia,Heizou,Fischl,Jean
 Tartaglia,Heizou,Fischl,Sayu
-Tartaglia,Heizou,Albedo,Barbara
-Tartaglia,Heizou,Albedo,Bennett
-Tartaglia,Sucrose,Venti,Barbara
-Tartaglia,Sucrose,Venti,Bennett
 Tartaglia,Sucrose,Xingqiu,Barbara
 Tartaglia,Sucrose,Xingqiu,Bennett
 Tartaglia,Sucrose,Xingqiu,Zhongli
@@ -4336,8 +4275,6 @@ Tartaglia,Sucrose,Fischl,Bennett
 Tartaglia,Sucrose,Fischl,Zhongli
 Tartaglia,Sucrose,Fischl,Jean
 Tartaglia,Sucrose,Fischl,Sayu
-Tartaglia,Sucrose,Albedo,Barbara
-Tartaglia,Sucrose,Albedo,Bennett
 Tartaglia,Venti,Xingqiu,Barbara
 Tartaglia,Venti,Xingqiu,Bennett
 Tartaglia,Venti,Xingqiu,Zhongli
@@ -4353,8 +4290,6 @@ Tartaglia,Venti,Fischl,Bennett
 Tartaglia,Venti,Fischl,Zhongli
 Tartaglia,Venti,Fischl,Jean
 Tartaglia,Venti,Fischl,Sayu
-Tartaglia,Venti,Albedo,Barbara
-Tartaglia,Venti,Albedo,Bennett
 Tartaglia,Xingqiu,Yelan,Barbara
 Tartaglia,Xingqiu,Yelan,Bennett
 Tartaglia,Xingqiu,Yelan,Zhongli
@@ -4385,13 +4320,9 @@ Tartaglia,Fischl,Albedo,Bennett
 Tartaglia,Fischl,Albedo,Zhongli
 Tartaglia,Fischl,Albedo,Jean
 Tartaglia,Fischl,Albedo,Sayu
-Tartaglia,Kazuha,Yun Jin,Xingqiu
-Tartaglia,Heizou,Yun Jin,Xingqiu
 Tartaglia,Sucrose,Yun Jin,Xingqiu
-Tartaglia,Venti,Yun Jin,Xingqiu
 Tartaglia,Yelan,Yun Jin,Xingqiu
 Tartaglia,Fischl,Yun Jin,Xingqiu
-Tartaglia,Albedo,Yun Jin,Xingqiu
 Tartaglia,Yun Jin,Sayu,Bennett
 Tartaglia,Kazuha,Sayu,Bennett
 Tartaglia,Heizou,Sayu,Bennett
@@ -4401,15 +4332,7 @@ Tartaglia,Xingqiu,Sayu,Bennett
 Tartaglia,Yelan,Sayu,Bennett
 Tartaglia,Fischl,Sayu,Bennett
 Tartaglia,Albedo,Sayu,Bennett
-Tartaglia,Yun Jin,Barbara,Bennett
-Tartaglia,Kazuha,Barbara,Bennett
-Tartaglia,Heizou,Barbara,Bennett
-Tartaglia,Sucrose,Barbara,Bennett
-Tartaglia,Venti,Barbara,Bennett
 Tartaglia,Xingqiu,Barbara,Bennett
-Tartaglia,Yelan,Barbara,Bennett
-Tartaglia,Fischl,Barbara,Bennett
-Tartaglia,Albedo,Barbara,Bennett
 Tartaglia,Rosaria,Kaeya,Venti
 Tartaglia,Rosaria,Kaeya,Kazuha
 Tartaglia,Rosaria,Kaeya,Heizou
