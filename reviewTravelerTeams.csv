@@ -1,0 +1,4 @@
+INSTRUCTIONS: Some teams do not have a specified Traveler type so we need to manually review.
+Copy all these values into the denyList so they do not show up again. Then change the Traveler to the following: 
+TravelerElectro / TravelerAnemo / TravelerGeo / TravelerDendro. Lastly close this csv and run genshin_teams_traveler_sanitize.py
+After the script is finished open the csv and move the teams to the main list and save. DO NOT remove these instructions.Amber

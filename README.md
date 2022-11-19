@@ -49,6 +49,10 @@ To start the entire automated process, I recommend creating a "inputs" and "outp
 
 ```
 Root
+└───Genshin Randomizer (Gottsmillk ver) repository
+│   └───src
+│       └───data
+│               │characterData.json
 └───Spiral-Stats repository
 │   └───data
 │       └───raw_csvs
@@ -61,6 +65,14 @@ Root
         │ genshinTeamsNamed.csv
         │ Run.bat (or linux/mac equivalent)
 ```
+
+Once everything finishes running, you will have the following outputs:
+
+- aggregatedTeams.csv: Contains a filtered list of teams that do not already exist in the main list and guarantee some form of sustain
+
+- denyList.csv: It is already populated, but will be appended with teams that the script deems may not have sustain, but can be manually added to the main list to override and ensure it is added.
+
+- reviewTravelerTeams.csv: Some teams do not have a specified Traveler type so we need to manually review. Copy all these values into the denyList so they do not show up again. Then change the Traveler to the following: TravelerElectro / TravelerAnemo / TravelerGeo / TravelerDendro. Lastly close this csv and run genshin_teams_traveler_sanitize.py. After the script is finished open the csv and move the teams to the main list and save.
 
 &nbsp;
 
