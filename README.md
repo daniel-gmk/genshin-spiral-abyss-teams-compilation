@@ -45,7 +45,7 @@ Currently the data here is supplied by the following:
 - Mihoyo's Lineup Simulator: Using the script `genshin_teams_aggregation_from_mihoyo.py`
 - LvlUrArti's Spiral Stats repository: Using the script `genshin_teams_aggregation_from_spiral_stats.py`. Need to clone the repository from [here](https://github.com/piedorr/Spiral-Stats)
 
-To start the entire automated process, I recommend using the Run.bat on Windows (or port it to a .sh script if you're on Mac or Linux). To ensure the script works you need the following folder structure:
+To start the entire automated process, I recommend creating a "inputs" and "outputs" folder in this repository, and using the Run.bat on Windows (or port it to a .sh script if you're on Mac or Linux). To ensure the script works you need the following folder structure:
 
 ```
 Root
