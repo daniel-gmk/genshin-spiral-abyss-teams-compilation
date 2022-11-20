@@ -105,7 +105,7 @@ for filename in os.listdir(directory):
             # Must have a hydro and cryo, and no pyro, geo, electro, dendro
             for charData in characterData:
                 if character == charData["shortName"]:
-                    if np.any(np.in1d(freezeTeamBans, charData["elements"]) or character == "Eula"):
+                    if np.any(np.in1d(freezeTeamBans, charData["elements"])) or character == "Eula":
                         passFreezeCheck = False
                         break
                     if "cryo" in charData["elements"]:
