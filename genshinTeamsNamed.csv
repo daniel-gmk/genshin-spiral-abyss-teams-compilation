@@ -2147,9 +2147,6 @@ Klee,Rosaria,Xiangling,Diona
 Klee,Beidou,Fischl,Shinobu
 Klee,Beidou,Fischl,Bennett
 Klee,Beidou,Fischl,Zhongli
-Klee,Beidou,Raiden,Shinobu
-Klee,Beidou,Raiden,Bennett
-Klee,Beidou,Raiden,Zhongli
 Klee,Beidou,TravelerElectro,Shinobu
 Klee,Beidou,TravelerElectro,Bennett
 Klee,Beidou,TravelerElectro,Zhongli
@@ -2260,7 +2257,6 @@ Klee,Yae,Kazuha,Zhongli
 Klee,Yae,Shinobu,Bennett
 Klee,Yae,Shinobu,Zhongli
 Klee,Fischl,Beidou,Xingqiu
-Klee,Raiden,Beidou,Xingqiu
 Klee,TravelerElectro,Beidou,Xingqiu
 Klee,Yae,Beidou,Xingqiu
 Klee,Xiangling,Beidou,Xingqiu
@@ -8015,7 +8011,6 @@ Ayaka,Hu Tao,Yelan,Zhongli
 Ayaka,Rosaria,Sucrose,Zhongli
 Ayato,Bennett,Xiangling,Yelan
 Barbara,Beidou,Fischl,Sucrose
-Beidou,Raiden,Sayu,Yelan
 Bennett,Eula,Mona,Raiden
 Bennett,Ganyu,Kazuha,Xiangling
 Bennett,Jean,Raiden,Xiangling
