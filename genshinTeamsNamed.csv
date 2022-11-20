@@ -1480,10 +1480,6 @@ Ayato,Beidou,TravelerElectro,Bennett
 Ayato,Beidou,TravelerElectro,Jean
 Ayato,Beidou,TravelerElectro,Sayu
 Ayato,Beidou,TravelerElectro,Zhongli
-Ayato,Beidou,Raiden,Bennett
-Ayato,Beidou,Raiden,Jean
-Ayato,Beidou,Raiden,Sayu
-Ayato,Beidou,Raiden,Zhongli
 Ayato,Beidou,Fischl,Bennett
 Ayato,Beidou,Fischl,Jean
 Ayato,Beidou,Fischl,Sayu
@@ -2446,7 +2442,6 @@ Noelle,Gorou,Fischl,Kaeya
 Noelle,Gorou,Beidou,Bennett
 Noelle,Gorou,Beidou,Xingqiu
 Noelle,Gorou,Beidou,Yelan
-Noelle,Gorou,Beidou,Raiden
 Noelle,Gorou,Beidou,Rosaria
 Noelle,Gorou,Beidou,Kaeya
 Noelle,Gorou,Bennett,Xingqiu
@@ -2508,7 +2503,6 @@ Noelle,Albedo,Fischl,Yelan
 Noelle,Albedo,Fischl,Kaeya
 Noelle,Albedo,Beidou,Bennett
 Noelle,Albedo,Beidou,Xingqiu
-Noelle,Albedo,Beidou,Raiden
 Noelle,Albedo,Beidou,Rosaria
 Noelle,Albedo,Beidou,Yelan
 Noelle,Albedo,Beidou,Kaeya
@@ -2560,7 +2554,6 @@ Noelle,Zhongli,Fischl,Rosaria
 Noelle,Zhongli,Fischl,Kaeya
 Noelle,Zhongli,Beidou,Xingqiu
 Noelle,Zhongli,Beidou,Yelan
-Noelle,Zhongli,Beidou,Raiden
 Noelle,Zhongli,Beidou,Rosaria
 Noelle,Zhongli,Beidou,Kaeya
 Noelle,Zhongli,Bennett,Xingqiu
@@ -2604,7 +2597,6 @@ Noelle,TravelerGeo,Fischl,Kaeya
 Noelle,TravelerGeo,Beidou,Bennett
 Noelle,TravelerGeo,Beidou,Yelan
 Noelle,TravelerGeo,Beidou,Xingqiu
-Noelle,TravelerGeo,Beidou,Raiden
 Noelle,TravelerGeo,Beidou,Rosaria
 Noelle,TravelerGeo,Beidou,Kaeya
 Noelle,TravelerGeo,Bennett,Xingqiu
@@ -2631,7 +2623,6 @@ Noelle,Ningguang,Fischl,Kaeya
 Noelle,Ningguang,Beidou,Bennett
 Noelle,Ningguang,Beidou,Xingqiu
 Noelle,Ningguang,Beidou,Yelan
-Noelle,Ningguang,Beidou,Raiden
 Noelle,Ningguang,Beidou,Rosaria
 Noelle,Ningguang,Beidou,Kaeya
 Noelle,Ningguang,Bennett,Xingqiu
@@ -2658,7 +2649,6 @@ Noelle,Yun Jin,Fischl,Kaeya
 Noelle,Yun Jin,Beidou,Bennett
 Noelle,Yun Jin,Beidou,Xingqiu
 Noelle,Yun Jin,Beidou,Yelan
-Noelle,Yun Jin,Beidou,Raiden
 Noelle,Yun Jin,Beidou,Rosaria
 Noelle,Yun Jin,Beidou,Kaeya
 Noelle,Yun Jin,Bennett,Xingqiu
@@ -2678,7 +2668,6 @@ Noelle,Yun Jin,Rosaria,Kaeya
 Noelle,Fischl,Beidou,Bennett
 Noelle,Fischl,Beidou,Xingqiu
 Noelle,Fischl,Beidou,Yelan
-Noelle,Fischl,Beidou,Raiden
 Noelle,Fischl,Beidou,Rosaria
 Noelle,Fischl,Beidou,Kaeya
 Noelle,Fischl,Bennett,Xingqiu
@@ -2697,17 +2686,12 @@ Noelle,Fischl,Raiden,Kaeya
 Noelle,Fischl,Rosaria,Kaeya
 Noelle,Beidou,Bennett,Xingqiu
 Noelle,Beidou,Bennett,Yelan
-Noelle,Beidou,Bennett,Raiden
 Noelle,Beidou,Bennett,Rosaria
 Noelle,Beidou,Bennett,Kaeya
-Noelle,Beidou,Xingqiu,Raiden
 Noelle,Beidou,Xingqiu,Rosaria
 Noelle,Beidou,Xingqiu,Kaeya
-Noelle,Beidou,Yelan,Raiden
 Noelle,Beidou,Yelan,Rosaria
 Noelle,Beidou,Yelan,Kaeya
-Noelle,Beidou,Raiden,Rosaria
-Noelle,Beidou,Raiden,Kaeya
 Noelle,Beidou,Rosaria,Kaeya
 Noelle,Bennett,Xingqiu,Raiden
 Noelle,Bennett,Xingqiu,Rosaria
@@ -2936,7 +2920,6 @@ Raiden,Xingqiu,Collei,Qiqi
 Raiden,Xingqiu,Collei,Jean
 Raiden,Xingqiu,Collei,Sayu
 Raiden,Xingqiu,Collei,Zhongli
-Raiden,Xingqiu,Collei,Beidou
 Raiden,Xingqiu,Nahida,Bennett
 Raiden,Xingqiu,Nahida,Kokomi
 Raiden,Xingqiu,Nahida,Shinobu
@@ -2944,7 +2927,6 @@ Raiden,Xingqiu,Nahida,Qiqi
 Raiden,Xingqiu,Nahida,Jean
 Raiden,Xingqiu,Nahida,Sayu
 Raiden,Xingqiu,Nahida,Zhongli
-Raiden,Xingqiu,Nahida,Beidou
 Raiden,Xingqiu,TravelerDendro,Bennett
 Raiden,Xingqiu,TravelerDendro,Kokomi
 Raiden,Xingqiu,TravelerDendro,Shinobu
@@ -2952,7 +2934,6 @@ Raiden,Xingqiu,TravelerDendro,Qiqi
 Raiden,Xingqiu,TravelerDendro,Jean
 Raiden,Xingqiu,TravelerDendro,Sayu
 Raiden,Xingqiu,TravelerDendro,Zhongli
-Raiden,Xingqiu,TravelerDendro,Beidou
 Raiden,Yelan,Mona,Bennett
 Raiden,Yelan,Mona,Kokomi
 Raiden,Yelan,Mona,Shinobu
