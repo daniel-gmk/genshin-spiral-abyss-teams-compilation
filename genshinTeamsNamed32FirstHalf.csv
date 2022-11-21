@@ -1,0 +1,881 @@
+Character 1,Character 2,Character 3,Character 4
+Cyno,Nahida,Fischl,Zhongli
+Cyno,Nahida,Fischl,Jean
+Cyno,Nahida,Fischl,Sayu
+Cyno,TravelerDendro,Fischl,Zhongli
+Cyno,TravelerDendro,Fischl,Jean
+Cyno,TravelerDendro,Fischl,Sayu
+Cyno,Collei,Fischl,Zhongli
+Cyno,Collei,Beidou,Zhongli
+Cyno,Collei,Albedo,Zhongli
+Cyno,Collei,Fischl,Jean
+Cyno,Collei,Fischl,Sayu
+Cyno,Collei,Beidou,Jean
+Cyno,Collei,Beidou,Sayu
+Cyno,Collei,Yae,Zhongli
+Cyno,Collei,Yae,Jean
+Cyno,Collei,Yae,Sayu
+Cyno,Collei,Kazuha,Shinobu
+Cyno,Collei,Kazuha,Dori
+Cyno,Collei,Sucrose,Shinobu
+Cyno,Collei,Sucrose,Dori
+Cyno,Collei,Yun Jin,Shinobu
+Cyno,Collei,Albedo,Dori
+Cyno,Nahida,Yelan,Shinobu
+Cyno,Nahida,Yelan,Dori
+Cyno,TravelerDendro,Yelan,Shinobu
+Cyno,TravelerDendro,Yelan,Dori
+Cyno,Collei,Yelan,Shinobu
+Cyno,Collei,Yelan,Dori
+Cyno,Collei,Xingqiu,Shinobu
+Cyno,Collei,Xingqiu,Dori
+Eula,Fischl,Rosaria,Diona
+Eula,Fischl,Rosaria,Qiqi
+Eula,Fischl,Rosaria,Jean
+Eula,Fischl,Rosaria,Sayu
+Eula,Fischl,Rosaria,Shinobu
+Eula,Fischl,Rosaria,Dori
+Eula,Fischl,Rosaria,Bennett
+Eula,Fischl,Shenhe,Diona
+Eula,Fischl,Shenhe,Qiqi
+Eula,Fischl,Shenhe,Jean
+Eula,Fischl,Shenhe,Sayu
+Eula,Fischl,Shenhe,Shinobu
+Eula,Fischl,Shenhe,Dori
+Eula,Fischl,Shenhe,Bennett
+Eula,Fischl,Yelan,Qiqi
+Eula,Fischl,Yelan,Jean
+Eula,Fischl,Yelan,Sayu
+Eula,Fischl,Yelan,Shinobu
+Eula,Fischl,Yelan,Dori
+Eula,Fischl,Yelan,Bennett
+Eula,Yae,Rosaria,Diona
+Eula,Yae,Shenhe,Diona
+Eula,Yae,Yelan,Diona
+Eula,Yae,Yelan,Qiqi
+Eula,Yae,Yelan,Jean
+Eula,Yae,Yelan,Sayu
+Eula,Yae,Yelan,Shinobu
+Eula,Yae,Yelan,Dori
+Eula,Yae,Yelan,Bennett
+Eula,Raiden,Rosaria,Diona
+Eula,Raiden,Shenhe,Diona
+Eula,Raiden,Yelan,Diona
+Eula,Raiden,Yelan,Qiqi
+Eula,Raiden,Yelan,Jean
+Eula,Raiden,Yelan,Sayu
+Eula,Raiden,Yelan,Shinobu
+Eula,Raiden,Yelan,Dori
+Eula,Raiden,Yelan,Bennett
+Ganyu,Kokomi,Venti,Shenhe
+Ganyu,Kokomi,Venti,Rosaria
+Ganyu,Kokomi,Venti,Ayaka
+Ganyu,Kokomi,Venti,Aloy
+Ganyu,Kokomi,Kazuha,Shenhe
+Ganyu,Kokomi,Kazuha,Rosaria
+Ganyu,Kokomi,Kazuha,Ayaka
+Ganyu,Kokomi,Sucrose,Shenhe
+Ganyu,Kokomi,Sucrose,Rosaria
+Ganyu,Kokomi,Sucrose,Ayaka
+Ganyu,Ayato,Venti,Shenhe
+Ganyu,Ayato,Venti,Diona
+Ganyu,Ayato,Venti,Rosaria
+Ganyu,Ayato,Venti,Ayaka
+Ganyu,Ayato,Venti,Aloy
+Ganyu,Ayato,Kazuha,Shenhe
+Ganyu,Ayato,Kazuha,Diona
+Ganyu,Ayato,Kazuha,Rosaria
+Ganyu,Ayato,Kazuha,Ayaka
+Ganyu,Ayato,Kazuha,Aloy
+Ganyu,Ayato,Sucrose,Shenhe
+Ganyu,Ayato,Sucrose,Diona
+Ganyu,Ayato,Sucrose,Rosaria
+Ganyu,Ayato,Sucrose,Ayaka
+Ganyu,Ayato,Sucrose,Aloy
+Ganyu,Ayato,Sayu,Shenhe
+Ganyu,Ayato,Sayu,Rosaria
+Ganyu,Ayato,Sayu,Ayaka
+Ganyu,Ayato,Sayu,Aloy
+Ganyu,Ayato,Jean,Shenhe
+Ganyu,Ayato,Jean,Rosaria
+Ganyu,Ayato,Jean,Ayaka
+Ganyu,Ayato,Jean,Aloy
+Ganyu,Mona,Venti,Shenhe
+Ganyu,Mona,Venti,Diona
+Ganyu,Mona,Venti,Rosaria
+Ganyu,Mona,Venti,Ayaka
+Ganyu,Mona,Venti,Aloy
+Ganyu,Mona,Kazuha,Shenhe
+Ganyu,Mona,Kazuha,Diona
+Ganyu,Mona,Kazuha,Rosaria
+Ganyu,Mona,Kazuha,Ayaka
+Ganyu,Mona,Kazuha,Aloy
+Ganyu,Mona,Sucrose,Shenhe
+Ganyu,Mona,Sucrose,Diona
+Ganyu,Mona,Sucrose,Rosaria
+Ganyu,Mona,Sucrose,Ayaka
+Ganyu,Mona,Sucrose,Aloy
+Ganyu,Mona,Sayu,Shenhe
+Ganyu,Mona,Sayu,Rosaria
+Ganyu,Mona,Sayu,Ayaka
+Ganyu,Mona,Sayu,Aloy
+Ganyu,Mona,Jean,Shenhe
+Ganyu,Mona,Jean,Rosaria
+Ganyu,Mona,Jean,Ayaka
+Ganyu,Mona,Jean,Aloy
+Ganyu,Xiangling,Nahida,Bennett
+Ganyu,Xiangling,TravelerDendro,Bennett
+Ganyu,Xiangling,Collei,Bennett
+Hu Tao,Xingqiu,Sucrose,Diona
+Hu Tao,Xingqiu,Kazuha,Diona
+Hu Tao,Xingqiu,Venti,Bennett
+Hu Tao,Xingqiu,Venti,Diona
+Hu Tao,Xingqiu,Venti,Barbara
+Hu Tao,Xingqiu,Venti,Qiqi
+Hu Tao,Xingqiu,Venti,Zhongli
+Hu Tao,Xingqiu,Venti,Kokomi
+Hu Tao,Xingqiu,Venti,Dori
+Hu Tao,Xingqiu,Venti,Shinobu
+Hu Tao,Xingqiu,Venti,Beidou
+Hu Tao,Xingqiu,Venti,Thoma
+Hu Tao,Xingqiu,Venti,Xiangling
+Hu Tao,Xingqiu,Albedo,Diona
+Hu Tao,Xingqiu,Zhongli,Diona
+Hu Tao,Xingqiu,Fischl,Diona
+Hu Tao,Xingqiu,Fischl,Barbara
+Hu Tao,Xingqiu,Fischl,Qiqi
+Hu Tao,Xingqiu,Fischl,Zhongli
+Hu Tao,Xingqiu,Fischl,Jean
+Hu Tao,Xingqiu,Fischl,Sayu
+Hu Tao,Xingqiu,Fischl,Kokomi
+Hu Tao,Xingqiu,Fischl,Thoma
+Hu Tao,Xingqiu,Fischl,Xiangling
+Hu Tao,Xingqiu,Yae,Diona
+Hu Tao,Xingqiu,Beidou,Diona
+Hu Tao,Xingqiu,Raiden,Diona
+Hu Tao,Xingqiu,Raiden,Fischl
+Hu Tao,Xingqiu,Yelan,Diona
+Hu Tao,Xingqiu,Yelan,Qiqi
+Hu Tao,Xingqiu,Yelan,Zhongli
+Hu Tao,Xingqiu,Yelan,Jean
+Hu Tao,Xingqiu,Yelan,Sayu
+Hu Tao,Xingqiu,Yelan,Beidou
+Hu Tao,Xingqiu,Yelan,Shinobu
+Hu Tao,Xingqiu,Yelan,Dori
+Hu Tao,Xingqiu,Yelan,Thoma
+Hu Tao,Xingqiu,Yelan,Xiangling
+Hu Tao,Xingqiu,Yelan,Fischl
+Hu Tao,Xingqiu,Yelan,Yae
+Hu Tao,Xingqiu,Rosaria,Diona
+Hu Tao,Yelan,Sucrose,Bennett
+Hu Tao,Yelan,Sucrose,Diona
+Hu Tao,Yelan,Sucrose,Barbara
+Hu Tao,Yelan,Sucrose,Qiqi
+Hu Tao,Yelan,Sucrose,Zhongli
+Hu Tao,Yelan,Sucrose,Kokomi
+Hu Tao,Yelan,Sucrose,Dori
+Hu Tao,Yelan,Sucrose,Shinobu
+Hu Tao,Yelan,Sucrose,Beidou
+Hu Tao,Yelan,Sucrose,Thoma
+Hu Tao,Yelan,Sucrose,Xiangling
+Hu Tao,Yelan,Kazuha,Bennett
+Hu Tao,Yelan,Kazuha,Diona
+Hu Tao,Yelan,Kazuha,Barbara
+Hu Tao,Yelan,Kazuha,Qiqi
+Hu Tao,Yelan,Kazuha,Zhongli
+Hu Tao,Yelan,Kazuha,Kokomi
+Hu Tao,Yelan,Kazuha,Dori
+Hu Tao,Yelan,Kazuha,Shinobu
+Hu Tao,Yelan,Kazuha,Beidou
+Hu Tao,Yelan,Kazuha,Thoma
+Hu Tao,Yelan,Kazuha,Xiangling
+Hu Tao,Yelan,Venti,Bennett
+Hu Tao,Yelan,Venti,Diona
+Hu Tao,Yelan,Venti,Barbara
+Hu Tao,Yelan,Venti,Qiqi
+Hu Tao,Yelan,Venti,Zhongli
+Hu Tao,Yelan,Venti,Kokomi
+Hu Tao,Yelan,Venti,Dori
+Hu Tao,Yelan,Venti,Shinobu
+Hu Tao,Yelan,Venti,Beidou
+Hu Tao,Yelan,Venti,Thoma
+Hu Tao,Yelan,Venti,Xiangling
+Hu Tao,Yelan,Albedo,Bennett
+Hu Tao,Yelan,Albedo,Diona
+Hu Tao,Yelan,Albedo,Barbara
+Hu Tao,Yelan,Albedo,Qiqi
+Hu Tao,Yelan,Albedo,Zhongli
+Hu Tao,Yelan,Albedo,Jean
+Hu Tao,Yelan,Albedo,Sayu
+Hu Tao,Yelan,Albedo,Kokomi
+Hu Tao,Yelan,Albedo,Dori
+Hu Tao,Yelan,Albedo,Shinobu
+Hu Tao,Yelan,Albedo,Beidou
+Hu Tao,Yelan,Albedo,Thoma
+Hu Tao,Yelan,Albedo,Xiangling
+Hu Tao,Yelan,Zhongli,Bennett
+Hu Tao,Yelan,Zhongli,Diona
+Hu Tao,Yelan,Zhongli,Barbara
+Hu Tao,Yelan,Zhongli,Qiqi
+Hu Tao,Yelan,Zhongli,Jean
+Hu Tao,Yelan,Zhongli,Sayu
+Hu Tao,Yelan,Zhongli,Kokomi
+Hu Tao,Yelan,Zhongli,Dori
+Hu Tao,Yelan,Zhongli,Shinobu
+Hu Tao,Yelan,Zhongli,Beidou
+Hu Tao,Yelan,Zhongli,Thoma
+Hu Tao,Yelan,Zhongli,Xiangling
+Hu Tao,Yelan,Fischl,Bennett
+Hu Tao,Yelan,Fischl,Diona
+Hu Tao,Yelan,Fischl,Barbara
+Hu Tao,Yelan,Fischl,Qiqi
+Hu Tao,Yelan,Fischl,Zhongli
+Hu Tao,Yelan,Fischl,Jean
+Hu Tao,Yelan,Fischl,Sayu
+Hu Tao,Yelan,Fischl,Kokomi
+Hu Tao,Yelan,Fischl,Thoma
+Hu Tao,Yelan,Fischl,Xiangling
+Hu Tao,Yelan,Yae,Bennett
+Hu Tao,Yelan,Yae,Diona
+Hu Tao,Yelan,Yae,Barbara
+Hu Tao,Yelan,Yae,Qiqi
+Hu Tao,Yelan,Yae,Zhongli
+Hu Tao,Yelan,Yae,Jean
+Hu Tao,Yelan,Yae,Sayu
+Hu Tao,Yelan,Yae,Kokomi
+Hu Tao,Yelan,Yae,Thoma
+Hu Tao,Yelan,Yae,Xiangling
+Hu Tao,Yelan,Beidou,Bennett
+Hu Tao,Yelan,Beidou,Diona
+Hu Tao,Yelan,Beidou,Barbara
+Hu Tao,Yelan,Beidou,Qiqi
+Hu Tao,Yelan,Beidou,Zhongli
+Hu Tao,Yelan,Beidou,Jean
+Hu Tao,Yelan,Beidou,Sayu
+Hu Tao,Yelan,Beidou,Kokomi
+Hu Tao,Yelan,Beidou,Thoma
+Hu Tao,Yelan,Beidou,Fischl
+Hu Tao,Yelan,Beidou,Xiangling
+Hu Tao,Yelan,Raiden,Bennett
+Hu Tao,Yelan,Raiden,Diona
+Hu Tao,Yelan,Raiden,Barbara
+Hu Tao,Yelan,Raiden,Qiqi
+Hu Tao,Yelan,Raiden,Zhongli
+Hu Tao,Yelan,Raiden,Jean
+Hu Tao,Yelan,Raiden,Sayu
+Hu Tao,Yelan,Raiden,Kokomi
+Hu Tao,Yelan,Raiden,Thoma
+Hu Tao,Yelan,Raiden,Fischl
+Hu Tao,Yelan,Raiden,Xiangling
+Ayaka,Shenhe,Kokomi,Venti
+Ayaka,Shenhe,Mona,Venti
+Ayaka,Shenhe,Ayato,Venti
+Ayaka,Shenhe,Xingqiu,Venti
+Ayaka,Shenhe,Yelan,Kazuha
+Ayaka,Shenhe,Yelan,Venti
+Ayaka,Shenhe,Yelan,Jean
+Ayaka,Shenhe,Yelan,Sucrose
+Ayaka,Shenhe,Yelan,Heizou
+Ayaka,Shenhe,Barbara,Venti
+Ayaka,Ganyu,Xingqiu,Kazuha
+Ayaka,Ganyu,Xingqiu,Venti
+Ayaka,Ganyu,Xingqiu,Jean
+Ayaka,Ganyu,Xingqiu,Sucrose
+Ayaka,Ganyu,Xingqiu,Heizou
+Ayaka,Ganyu,Yelan,Kazuha
+Ayaka,Ganyu,Yelan,Venti
+Ayaka,Ganyu,Yelan,Jean
+Ayaka,Ganyu,Yelan,Sucrose
+Ayaka,Ganyu,Yelan,Heizou
+Ayaka,Ganyu,Barbara,Kazuha
+Ayaka,Ganyu,Barbara,Venti
+Ayaka,Ganyu,Barbara,Sucrose
+Ayaka,Ganyu,Barbara,Heizou
+Ayaka,Diona,Mona,Kazuha
+Ayaka,Diona,Mona,Venti
+Ayaka,Diona,Mona,Sucrose
+Ayaka,Diona,Mona,Heizou
+Ayaka,Diona,Ayato,Kazuha
+Ayaka,Diona,Ayato,Venti
+Ayaka,Diona,Ayato,Sucrose
+Ayaka,Diona,Ayato,Heizou
+Ayaka,Diona,Xingqiu,Kazuha
+Ayaka,Diona,Xingqiu,Venti
+Ayaka,Diona,Xingqiu,Sucrose
+Ayaka,Diona,Xingqiu,Heizou
+Ayaka,Diona,Yelan,Kazuha
+Ayaka,Diona,Yelan,Venti
+Ayaka,Diona,Yelan,Sucrose
+Ayaka,Diona,Yelan,Heizou
+Ayaka,Diona,Tartaglia,Kazuha
+Ayaka,Diona,Tartaglia,Venti
+Ayaka,Diona,Tartaglia,Sucrose
+Ayaka,Diona,Tartaglia,Heizou
+Ayaka,Rosaria,Kokomi,Venti
+Ayaka,Rosaria,Mona,Venti
+Ayaka,Rosaria,Ayato,Venti
+Ayaka,Rosaria,Xingqiu,Venti
+Ayaka,Rosaria,Yelan,Kazuha
+Ayaka,Rosaria,Yelan,Venti
+Ayaka,Rosaria,Yelan,Jean
+Ayaka,Rosaria,Yelan,Sucrose
+Ayaka,Shenhe,Kazuha,Zhongli
+Ayaka,Shenhe,Kazuha,Diona
+Ayaka,Shenhe,Sucrose,Zhongli
+Ayaka,Shenhe,Sucrose,Diona
+Ayaka,Shenhe,Venti,Zhongli
+Ayaka,Shenhe,Venti,Diona
+Ayaka,Shenhe,Ganyu,Diona
+Ayaka,Shenhe,Ganyu,Zhongli
+Ayaka,Shenhe,Rosaria,Diona
+Ayaka,Shenhe,Rosaria,Zhongli
+Nilou,Collei,Nahida,Barbara
+Nilou,Collei,Nahida,Kokomi
+Nilou,Collei,TravelerDendro,Barbara
+Nilou,Collei,TravelerDendro,Kokomi
+Nilou,Ayato,Collei,Barbara
+Nilou,Ayato,Collei,Kokomi
+Nilou,Xingqiu,Collei,Barbara
+Nilou,Xingqiu,Collei,Kokomi
+Nilou,Yelan,Collei,Barbara
+Nilou,Yelan,Collei,Kokomi
+Nilou,Yelan,Nahida,Barbara
+Nilou,Yelan,Nahida,Kokomi
+Nilou,Yelan,TravelerDendro,Barbara
+Nilou,Yelan,TravelerDendro,Kokomi
+Nilou,Yelan,Albedo,Zhongli
+Raiden,Xingqiu,Yelan,Bennett
+Raiden,Xingqiu,Yelan,Kokomi
+Raiden,Xingqiu,Yelan,Shinobu
+Raiden,Xingqiu,Fischl,Bennett
+Raiden,Xingqiu,Fischl,Kokomi
+Raiden,Xingqiu,Fischl,Jean
+Raiden,Xingqiu,Sara,Bennett
+Raiden,Xingqiu,Sara,Kokomi
+Raiden,Xingqiu,Sara,Jean
+Raiden,Xingqiu,Venti,Bennett
+Raiden,Xingqiu,Venti,Kokomi
+Raiden,Xingqiu,Venti,Jean
+Raiden,Xingqiu,Collei,Bennett
+Raiden,Xingqiu,Collei,Kokomi
+Raiden,Xingqiu,Collei,Jean
+Raiden,Yelan,Mona,Bennett
+Raiden,Yelan,Mona,Kokomi
+Raiden,Yelan,Mona,Shinobu
+Raiden,Yelan,Mona,Jean
+Raiden,Yelan,Yae,Bennett
+Raiden,Yelan,Yae,Kokomi
+Raiden,Yelan,Yae,Shinobu
+Raiden,Yelan,Yae,Jean
+Raiden,Yelan,Fischl,Bennett
+Raiden,Yelan,Fischl,Kokomi
+Raiden,Yelan,Fischl,Shinobu
+Raiden,Yelan,Fischl,Jean
+Raiden,Yelan,Sara,Bennett
+Raiden,Yelan,Sara,Kokomi
+Raiden,Yelan,Sara,Shinobu
+Raiden,Yelan,Sara,Jean
+Raiden,Yelan,Lisa,Bennett
+Raiden,Yelan,Lisa,Kokomi
+Raiden,Yelan,Lisa,Shinobu
+Raiden,Yelan,Lisa,Jean
+Raiden,Yelan,Kazuha,Bennett
+Raiden,Yelan,Kazuha,Kokomi
+Raiden,Yelan,Kazuha,Shinobu
+Raiden,Yelan,Kazuha,Jean
+Raiden,Yelan,Venti,Bennett
+Raiden,Yelan,Venti,Kokomi
+Raiden,Yelan,Venti,Shinobu
+Raiden,Yelan,Venti,Jean
+Raiden,Yelan,Heizou,Bennett
+Raiden,Yelan,Heizou,Kokomi
+Raiden,Yelan,Heizou,Shinobu
+Raiden,Yelan,Heizou,Jean
+Raiden,Yelan,Sucrose,Bennett
+Raiden,Yelan,Sucrose,Kokomi
+Raiden,Yelan,Sucrose,Shinobu
+Raiden,Yelan,Sucrose,Jean
+Raiden,Yelan,TravelerGeo,Bennett
+Raiden,Yelan,TravelerGeo,Kokomi
+Raiden,Yelan,TravelerGeo,Shinobu
+Raiden,Yelan,TravelerGeo,Jean
+Raiden,Yelan,Albedo,Bennett
+Raiden,Yelan,Albedo,Kokomi
+Raiden,Yelan,Albedo,Shinobu
+Raiden,Yelan,Albedo,Jean
+Raiden,Yelan,Collei,Bennett
+Raiden,Yelan,Collei,Kokomi
+Raiden,Yelan,Collei,Shinobu
+Raiden,Yelan,Collei,Jean
+Raiden,Yelan,Nahida,Bennett
+Raiden,Yelan,Nahida,Kokomi
+Raiden,Yelan,Nahida,Shinobu
+Raiden,Yelan,Nahida,Jean
+Raiden,Yelan,TravelerDendro,Bennett
+Raiden,Yelan,TravelerDendro,Kokomi
+Raiden,Yelan,TravelerDendro,Shinobu
+Raiden,Yelan,TravelerDendro,Jean
+Raiden,Mona,Fischl,Bennett
+Raiden,Mona,Fischl,Kokomi
+Raiden,Mona,Fischl,Jean
+Raiden,Mona,Fischl,Zhongli
+Raiden,Mona,Collei,Bennett
+Raiden,Mona,Collei,Kokomi
+Raiden,Mona,Collei,Jean
+Raiden,Yae,Fischl,Bennett
+Raiden,Yae,Fischl,Kokomi
+Raiden,Yae,Fischl,Jean
+Raiden,Yae,Sara,Kokomi
+Raiden,Yae,Sara,Shinobu
+Raiden,Yae,Sara,Bennett
+Raiden,Yae,Collei,Bennett
+Raiden,Yae,Collei,Kokomi
+Raiden,Yae,Collei,Jean
+Raiden,Fischl,Sara,Bennett
+Raiden,Fischl,Sara,Kokomi
+Raiden,Fischl,Sara,Jean
+Raiden,Fischl,Kazuha,Bennett
+Raiden,Fischl,Kazuha,Kokomi
+Raiden,Fischl,Venti,Bennett
+Raiden,Fischl,Venti,Kokomi
+Raiden,Fischl,Sucrose,Bennett
+Raiden,Fischl,Sucrose,Kokomi
+Raiden,Fischl,Collei,Bennett
+Raiden,Fischl,Collei,Kokomi
+Raiden,Fischl,Collei,Jean
+Raiden,Fischl,Nahida,Bennett
+Raiden,Fischl,Nahida,Kokomi
+Raiden,Fischl,Nahida,Jean
+Raiden,Fischl,TravelerDendro,Bennett
+Raiden,Fischl,TravelerDendro,Kokomi
+Raiden,Fischl,TravelerDendro,Jean
+Raiden,Sara,Kazuha,Bennett
+Raiden,Sara,Kazuha,Kokomi
+Raiden,Sara,Venti,Bennett
+Raiden,Sara,Venti,Kokomi
+Raiden,Sara,Sucrose,Bennett
+Raiden,Sara,Sucrose,Kokomi
+Raiden,Sara,Collei,Bennett
+Raiden,Sara,Collei,Kokomi
+Raiden,Sara,Collei,Jean
+Raiden,Sara,Nahida,Bennett
+Raiden,Sara,Nahida,Kokomi
+Raiden,Sara,Nahida,Jean
+Raiden,Sara,TravelerDendro,Bennett
+Raiden,Sara,TravelerDendro,Kokomi
+Raiden,Sara,TravelerDendro,Jean
+Raiden,Albedo,Collei,Bennett
+Raiden,Albedo,Collei,Kokomi
+Raiden,Albedo,Collei,Jean
+Raiden,Collei,Nahida,Bennett
+Raiden,Collei,Nahida,Kokomi
+Raiden,Collei,Nahida,Jean
+Raiden,Collei,TravelerDendro,Bennett
+Raiden,Collei,TravelerDendro,Kokomi
+Raiden,Collei,TravelerDendro,Jean
+Kokomi,Nahida,Fischl,Beidou
+Kokomi,Nahida,Fischl,Kazuha
+Kokomi,Nahida,Fischl,Sucrose
+Kokomi,Nahida,Fischl,Xiangling
+Kokomi,Nahida,Fischl,Mona
+Kokomi,Nahida,Fischl,Xingqiu
+Kokomi,Nahida,Fischl,Yelan
+Kokomi,Nahida,Fischl,Collei
+Kokomi,Nahida,Fischl,TravelerDendro
+Kokomi,Nahida,Beidou,Yelan
+Kokomi,Nahida,Beidou,Collei
+Kokomi,Nahida,Kazuha,Yelan
+Kokomi,Nahida,Kazuha,Collei
+Kokomi,Nahida,Sucrose,Yelan
+Kokomi,Nahida,Sucrose,Collei
+Kokomi,Nahida,Xiangling,Yelan
+Kokomi,Nahida,Xiangling,Collei
+Kokomi,Nahida,Mona,Yelan
+Kokomi,Nahida,Mona,Collei
+Kokomi,Nahida,Xingqiu,Collei
+Kokomi,Nahida,Xingqiu,TravelerDendro
+Kokomi,Nahida,Yelan,Collei
+Kokomi,Nahida,Yelan,TravelerDendro
+Kokomi,Nahida,Collei,TravelerDendro
+Kokomi,Collei,Fischl,Beidou
+Kokomi,Collei,Fischl,Kazuha
+Kokomi,Collei,Fischl,Sucrose
+Kokomi,Collei,Fischl,Xiangling
+Kokomi,Collei,Fischl,Mona
+Kokomi,Collei,Fischl,Xingqiu
+Kokomi,Collei,Fischl,Yelan
+Kokomi,Collei,Fischl,Nahida
+Kokomi,Collei,Fischl,TravelerDendro
+Kokomi,Collei,Beidou,Kazuha
+Kokomi,Collei,Beidou,Sucrose
+Kokomi,Collei,Beidou,Xiangling
+Kokomi,Collei,Beidou,Mona
+Kokomi,Collei,Beidou,Xingqiu
+Kokomi,Collei,Beidou,Yelan
+Kokomi,Collei,Beidou,Nahida
+Kokomi,Collei,Beidou,TravelerDendro
+Kokomi,Collei,Kazuha,Sucrose
+Kokomi,Collei,Kazuha,Xiangling
+Kokomi,Collei,Kazuha,Mona
+Kokomi,Collei,Kazuha,Xingqiu
+Kokomi,Collei,Kazuha,Yelan
+Kokomi,Collei,Kazuha,Nahida
+Kokomi,Collei,Kazuha,TravelerDendro
+Kokomi,Collei,Sucrose,Xiangling
+Kokomi,Collei,Sucrose,Mona
+Kokomi,Collei,Sucrose,Xingqiu
+Kokomi,Collei,Sucrose,Yelan
+Kokomi,Collei,Sucrose,Nahida
+Kokomi,Collei,Sucrose,TravelerDendro
+Kokomi,Collei,Xiangling,Mona
+Kokomi,Collei,Xiangling,Xingqiu
+Kokomi,Collei,Xiangling,Yelan
+Kokomi,Collei,Xiangling,Nahida
+Kokomi,Collei,Xiangling,TravelerDendro
+Kokomi,Collei,Mona,Xingqiu
+Kokomi,Collei,Mona,Yelan
+Kokomi,Collei,Mona,Nahida
+Kokomi,Collei,Mona,TravelerDendro
+Kokomi,Collei,Xingqiu,Yelan
+Kokomi,Collei,Xingqiu,Nahida
+Kokomi,Collei,Xingqiu,TravelerDendro
+Kokomi,Collei,Yelan,Nahida
+Kokomi,Collei,Yelan,TravelerDendro
+Kokomi,Collei,Nahida,TravelerDendro
+Kokomi,TravelerDendro,Fischl,Beidou
+Kokomi,TravelerDendro,Fischl,Kazuha
+Kokomi,TravelerDendro,Fischl,Sucrose
+Kokomi,TravelerDendro,Fischl,Xiangling
+Kokomi,TravelerDendro,Fischl,Mona
+Kokomi,TravelerDendro,Fischl,Xingqiu
+Kokomi,TravelerDendro,Fischl,Yelan
+Kokomi,TravelerDendro,Fischl,Nahida
+Kokomi,TravelerDendro,Fischl,Collei
+Kokomi,TravelerDendro,Beidou,Yelan
+Kokomi,TravelerDendro,Beidou,Collei
+Kokomi,TravelerDendro,Kazuha,Yelan
+Kokomi,TravelerDendro,Kazuha,Collei
+Kokomi,TravelerDendro,Sucrose,Yelan
+Kokomi,TravelerDendro,Sucrose,Collei
+Kokomi,TravelerDendro,Xiangling,Yelan
+Kokomi,TravelerDendro,Xiangling,Collei
+Kokomi,TravelerDendro,Mona,Yelan
+Kokomi,TravelerDendro,Mona,Collei
+Kokomi,TravelerDendro,Xingqiu,Yelan
+Kokomi,TravelerDendro,Xingqiu,Collei
+Kokomi,TravelerDendro,Yelan,Nahida
+Kokomi,TravelerDendro,Yelan,Collei
+Kokomi,TravelerDendro,Nahida,Collei
+Tighnari,Fischl,TravelerDendro,Bennett
+Tighnari,Fischl,TravelerDendro,Jean
+Tighnari,Fischl,TravelerDendro,Kokomi
+Tighnari,Fischl,TravelerDendro,Shinobu
+Tighnari,Fischl,TravelerDendro,Dori
+Tighnari,Fischl,Collei,Bennett
+Tighnari,Fischl,Collei,Jean
+Tighnari,Fischl,Collei,Kokomi
+Tighnari,Fischl,Collei,Shinobu
+Tighnari,Fischl,Collei,Dori
+Tighnari,Fischl,Nahida,Bennett
+Tighnari,Fischl,Nahida,Jean
+Tighnari,Fischl,Nahida,Kokomi
+Tighnari,Fischl,Nahida,Shinobu
+Tighnari,Fischl,Nahida,Dori
+Tighnari,Fischl,Kazuha,Bennett
+Tighnari,Fischl,Kazuha,Kokomi
+Tighnari,Fischl,Kazuha,Shinobu
+Tighnari,Fischl,Kazuha,Dori
+Tighnari,Fischl,Sucrose,Bennett
+Tighnari,Fischl,Sucrose,Kokomi
+Tighnari,Fischl,Sucrose,Shinobu
+Tighnari,Fischl,Sucrose,Dori
+Tighnari,Fischl,Venti,Bennett
+Tighnari,Fischl,Venti,Kokomi
+Tighnari,Fischl,Venti,Shinobu
+Tighnari,Fischl,Venti,Dori
+Tighnari,Fischl,Yae,Bennett
+Tighnari,Fischl,Yae,Jean
+Tighnari,Fischl,Yae,Kokomi
+Tighnari,Fischl,Raiden,Bennett
+Tighnari,Fischl,Raiden,Jean
+Tighnari,Fischl,Raiden,Kokomi
+Tighnari,Yae,Collei,Bennett
+Tighnari,Yae,Collei,Jean
+Tighnari,Yae,Collei,Kokomi
+Tighnari,Yae,Collei,Shinobu
+Tighnari,Yae,Collei,Dori
+Tighnari,Yae,Venti,Bennett
+Tighnari,Yae,Venti,Jean
+Tighnari,Yae,Venti,Kokomi
+Tighnari,Yae,Venti,Shinobu
+Tighnari,Yae,Venti,Dori
+Tighnari,Raiden,Collei,Bennett
+Tighnari,Raiden,Collei,Jean
+Tighnari,Raiden,Collei,Kokomi
+Tighnari,Raiden,Collei,Shinobu
+Tighnari,Raiden,Collei,Dori
+Tighnari,Raiden,Venti,Bennett
+Tighnari,Raiden,Venti,Jean
+Tighnari,Raiden,Venti,Kokomi
+Tighnari,Raiden,Venti,Shinobu
+Tighnari,Raiden,Venti,Dori
+Tighnari,Raiden,Sara,Bennett
+Tighnari,Raiden,Sara,Jean
+Tighnari,Raiden,Sara,Kokomi
+Tighnari,Yae,Zhongli,Nahida
+Tighnari,Yae,Zhongli,TravelerDendro
+Tighnari,Yae,Zhongli,Collei
+Hu Tao,Xingqiu,Albedo,Zhongli
+Tartaglia,Bennett,Fischl,Kazuha
+Tartaglia,Bennett,Fischl,Jean
+Tartaglia,Bennett,Fischl,Venti
+Tartaglia,Bennett,Raiden,Kazuha
+Tartaglia,Bennett,Raiden,Jean
+Tartaglia,Bennett,Raiden,Venti
+Tartaglia,Beidou,Raiden,Bennett
+Tartaglia,Beidou,Raiden,Jean
+Tartaglia,Beidou,Fischl,Bennett
+Tartaglia,Beidou,Fischl,Jean
+Tartaglia,Yae,Raiden,Bennett
+Tartaglia,Yae,Raiden,Jean
+Tartaglia,Yae,Fischl,Bennett
+Tartaglia,Yae,Fischl,Jean
+Tartaglia,Bennett,Xiangling,Kazuha
+Tartaglia,Bennett,Xiangling,Venti
+Tartaglia,Bennett,Xiangling,Jean
+Tartaglia,Bennett,Xiangling,Sucrose
+Tartaglia,Bennett,Xiangling,Albedo
+Tartaglia,Bennett,Xiangling,Xingqiu
+Tartaglia,Bennett,Xiangling,Collei
+Tartaglia,Bennett,Xiangling,Nahida
+Tartaglia,Bennett,Xiangling,TravelerDendro
+Tartaglia,Kazuha,Xingqiu,Bennett
+Tartaglia,Kazuha,Xingqiu,Jean
+Tartaglia,Kazuha,Yelan,Bennett
+Tartaglia,Kazuha,Yelan,Jean
+Tartaglia,Kazuha,Fischl,Bennett
+Tartaglia,Sucrose,Xingqiu,Bennett
+Tartaglia,Sucrose,Xingqiu,Jean
+Tartaglia,Sucrose,Yelan,Bennett
+Tartaglia,Sucrose,Yelan,Jean
+Tartaglia,Sucrose,Fischl,Bennett
+Tartaglia,Sucrose,Fischl,Jean
+Tartaglia,Venti,Xingqiu,Bennett
+Tartaglia,Venti,Xingqiu,Jean
+Tartaglia,Venti,Yelan,Bennett
+Tartaglia,Venti,Yelan,Jean
+Tartaglia,Venti,Fischl,Bennett
+Tartaglia,Venti,Fischl,Jean
+Tartaglia,Xingqiu,Yelan,Bennett
+Tartaglia,Xingqiu,Yelan,Jean
+Tartaglia,Xingqiu,Fischl,Bennett
+Tartaglia,Xingqiu,Fischl,Jean
+Tartaglia,Yelan,Fischl,Bennett
+Tartaglia,Yelan,Fischl,Jean
+Tartaglia,Rosaria,Shenhe,Venti
+Tartaglia,Rosaria,Shenhe,Kazuha
+Tartaglia,Rosaria,Shenhe,Jean
+Tartaglia,Rosaria,Shenhe,Sucrose
+Tartaglia,Collei,Nahida,Kokomi
+Tartaglia,Collei,Nahida,Jean
+Tartaglia,Collei,TravelerDendro,Kokomi
+Tartaglia,Collei,TravelerDendro,Jean
+Tartaglia,Nahida,TravelerDendro,Kokomi
+Tartaglia,Nahida,TravelerDendro,Jean
+Tartaglia,Mona,Collei,Bennett
+Tartaglia,Mona,Nahida,Kokomi
+Tartaglia,Mona,Nahida,Jean
+Tartaglia,Mona,Nahida,Bennett
+Tartaglia,Mona,TravelerDendro,Bennett
+Tartaglia,Xingqiu,Collei,Kokomi
+Tartaglia,Xingqiu,Collei,Jean
+Tartaglia,Xingqiu,Collei,Bennett
+Tartaglia,Xingqiu,Nahida,Kokomi
+Tartaglia,Xingqiu,Nahida,Jean
+Tartaglia,Xingqiu,Nahida,Bennett
+Tartaglia,Xingqiu,TravelerDendro,Kokomi
+Tartaglia,Xingqiu,TravelerDendro,Jean
+Tartaglia,Xingqiu,TravelerDendro,Bennett
+Tartaglia,Yelan,Collei,Bennett
+Tartaglia,Yelan,Nahida,Kokomi
+Tartaglia,Yelan,Nahida,Jean
+Tartaglia,Yelan,Nahida,Bennett
+Tartaglia,Yelan,TravelerDendro,Bennett
+Tartaglia,Fischl,Collei,Kokomi
+Tartaglia,Fischl,Collei,Jean
+Tartaglia,Fischl,Collei,Bennett
+Tartaglia,Fischl,Nahida,Kokomi
+Tartaglia,Fischl,Nahida,Jean
+Tartaglia,Fischl,Nahida,Bennett
+Tartaglia,Fischl,TravelerDendro,Kokomi
+Tartaglia,Fischl,TravelerDendro,Jean
+Tartaglia,Fischl,TravelerDendro,Bennett
+Tartaglia,Beidou,Collei,Bennett
+Tartaglia,Beidou,Nahida,Kokomi
+Tartaglia,Beidou,Nahida,Jean
+Tartaglia,Beidou,Nahida,Bennett
+Tartaglia,Beidou,TravelerDendro,Bennett
+Tartaglia,Raiden,Collei,Kokomi
+Tartaglia,Raiden,Collei,Jean
+Tartaglia,Raiden,Collei,Bennett
+Tartaglia,Raiden,Nahida,Kokomi
+Tartaglia,Raiden,Nahida,Jean
+Tartaglia,Raiden,Nahida,Bennett
+Tartaglia,Raiden,TravelerDendro,Kokomi
+Tartaglia,Raiden,TravelerDendro,Jean
+Tartaglia,Raiden,TravelerDendro,Bennett
+Tartaglia,Yae,Collei,Kokomi
+Tartaglia,Yae,Collei,Jean
+Tartaglia,Yae,Collei,Bennett
+Tartaglia,Yae,Nahida,Kokomi
+Tartaglia,Yae,Nahida,Jean
+Tartaglia,Yae,Nahida,Bennett
+Tartaglia,Yae,TravelerDendro,Kokomi
+Tartaglia,Yae,TravelerDendro,Jean
+Tartaglia,Yae,TravelerDendro,Bennett
+Xiao,Sucrose,Fischl,Bennett
+Xiao,Sucrose,Yelan,Bennett
+Xiao,Sucrose,Fischl,Jean
+Xiao,Sucrose,Yelan,Jean
+Xiao,Zhongli,Yelan,Jean
+Yanfei,Yelan,Xingqiu,Bennett
+Yanfei,Yelan,Xingqiu,Zhongli
+Yanfei,Yelan,Zhongli,Bennett
+Yanfei,Yelan,Sucrose,Bennett
+Yanfei,Yelan,Sucrose,Zhongli
+Yanfei,Yelan,Venti,Bennett
+Yanfei,Yelan,Albedo,Bennett
+Beidou,Fischl,Collei,Bennett
+Beidou,Fischl,Nahida,Bennett
+Beidou,Fischl,Nahida,Shinobu
+Beidou,Fischl,Nahida,Jean
+Beidou,Sucrose,Collei,Shinobu
+Beidou,Fischl,TravelerDendro,Bennett
+Beidou,Yae,Collei,Bennett
+Beidou,Yae,Collei,Jean
+Bennett,Xiangling,Xingqiu,Collei
+Bennett,Xiangling,Xingqiu,Fischl
+Bennett,Xiangling,Yelan,TravelerDendro
+Bennett,Xiangling,Yelan,Collei
+Bennett,Xiangling,Yelan,Nahida
+Bennett,Xiangling,Yelan,Albedo
+Bennett,Xiangling,Yelan,Fischl
+Bennett,Xiangling,Yelan,Kazuha
+Bennett,Xiangling,Yelan,Sucrose
+Bennett,Xiangling,Yelan,Beidou
+Bennett,Xiangling,Yelan,Chongyun
+Bennett,Xiangling,Yelan,Kaeya
+Bennett,Xiangling,Yelan,Rosaria
+Bennett,Xiangling,Yelan,Heizou
+Bennett,Yelan,Chongyun,Kazuha
+Bennett,Yelan,Chongyun,Sucrose
+Bennett,Yelan,Fischl,Beidou
+Bennett,Xingqiu,Yelan,Xiangling
+Bennett,Xingqiu,Yelan,Fischl
+Bennett,Xingqiu,Yelan,Beidou
+Bennett,Xingqiu,Yelan,Kazuha
+Bennett,Xingqiu,Yelan,Sucrose
+Bennett,Xingqiu,Yelan,Heizou
+Bennett,Xingqiu,Fischl,Beidou
+Bennett,Yelan,Fischl,Beidou
+Bennett,Xingqiu,Fischl,Sucrose
+Bennett,Xingqiu,Fischl,Sucrose
+Bennett,Yelan,Fischl,Albedo
+Bennett,Beidou,Fischl,Sucrose
+Bennett,Beidou,Fischl,Kazuha
+Bennett,Beidou,Fischl,Heizou
+Bennett,Yae,Fischl,Sucrose
+Bennett,Yae,Fischl,Kazuha
+Bennett,Yae,Fischl,Heizou
+Bennett,Beidou,Sara,Sucrose
+Bennett,Beidou,Sara,Kazuha
+Bennett,Beidou,Sara,Heizou
+Bennett,Yae,Sara,Sucrose
+Bennett,Yae,Sara,Kazuha
+Bennett,Yae,Sara,Heizou
+Sucrose,Xingqiu,Fischl,Beidou
+Kazuha,Xingqiu,Fischl,Beidou
+Sucrose,Xingqiu,Beidou,Collei
+Kazuha,Xingqiu,Beidou,Collei
+Bennett,Collei,Kazuha,Beidou
+Bennett,Collei,Sucrose,Beidou
+Bennett,Collei,Kazuha,Fischl
+Bennett,TravelerDendro,Kazuha,Fischl
+Bennett,Nahida,Kazuha,Fischl
+Bennett,Collei,Sucrose,Fischl
+Bennett,TravelerDendro,Sucrose,Fischl
+Bennett,Nahida,Sucrose,Fischl
+Bennett,Collei,Kazuha,Yae
+Bennett,Collei,Sucrose,Yae
+Bennett,Yelan,Kazuha,Jean
+Bennett,Yelan,Sucrose,Jean
+Bennett,Yelan,Heizou,Jean
+Chongyun,Ganyu,Venti,Kokomi
+Chongyun,Ganyu,Venti,Barbara
+Chongyun,Ganyu,Sucrose,Kokomi
+Chongyun,Ganyu,Sucrose,Barbara
+Chongyun,Ganyu,Kazuha,Kokomi
+Chongyun,Ganyu,Kazuha,Barbara
+Chongyun,Rosaria,Venti,Kokomi
+Chongyun,Rosaria,Venti,Barbara
+Chongyun,Shenhe,Venti,Kokomi
+Chongyun,Shenhe,Venti,Barbara
+Beidou,Yae,Collei,Jean
+Beidou,Yae,Collei,Sayu
+Fischl,Yae,Collei,Jean
+Fischl,Yae,Collei,Sayu
+Fischl,Yae,TravelerDendro,Jean
+Fischl,Yae,TravelerDendro,Sayu
+Fischl,Yae,Nahida,Jean
+Fischl,Yae,Nahida,Sayu
+Fischl,Kazuha,Collei,Shinobu
+Fischl,Kazuha,Collei,Dori
+Fischl,Kazuha,TravelerDendro,Shinobu
+Fischl,Kazuha,TravelerDendro,Dori
+Fischl,Kazuha,Nahida,Shinobu
+Fischl,Kazuha,Nahida,Dori
+Fischl,Sucrose,Collei,Shinobu
+Fischl,Sucrose,Collei,Dori
+Fischl,Sucrose,TravelerDendro,Shinobu
+Fischl,Sucrose,TravelerDendro,Dori
+Fischl,Sucrose,Nahida,Shinobu
+Fischl,Sucrose,Nahida,Dori
+Yae,Kazuha,Collei,Shinobu
+Yae,Kazuha,Collei,Dori
+Yae,Sucrose,Collei,Shinobu
+Yae,Sucrose,Collei,Dori
+Beidou,Kazuha,Collei,Shinobu
+Beidou,Kazuha,Collei,Dori
+Fischl,Yae,Collei,Zhongli
+Fischl,Yae,TravelerDendro,Zhongli
+Fischl,Yae,Nahida,Zhongli
+Beidou,Yae,Collei,Zhongli
+Xingqiu,Fischl,Rosaria,Jean
+Xingqiu,Fischl,Rosaria,Bennett
+Ayaka,Ayato,Diona,Shenhe
+Ayaka,Diona,Hu Tao,Mona
+Ayaka,Diona,Hu Tao,Xingqiu
+Bennett,Eula,Raiden,Xiangling
+Bennett,Ganyu,Venti,Xiangling
+Ganyu,Hu Tao,Xingqiu,Zhongli
+Hu Tao,Mona,Yelan,Zhongli
+Hu Tao,Rosaria,Yelan,Zhongli
+Ayaka,Hu Tao,Yelan,Zhongli
+Bennett,Ganyu,Kazuha,Xiangling
+Diona,Ganyu,Hu Tao,Kazuha
+Diona,Ganyu,Hu Tao,Xingqiu
+Fischl,Jean,Yae,Yelan
+Hu Tao,Kazuha,Xingqiu,Yelan
+Hu Tao,Sucrose,Xingqiu,Yelan
+Ayaka,Diona,Kazuha,Kokomi
+Ayaka,Diona,Shenhe,Xingqiu
+Bennett,Hu Tao,Xiangling,Yelan
+Ayato,Xingqiu,Yae,Zhongli
+Ayato,Fischl,Shinobu,Yun Jin
+Beidou,Fischl,Kokomi,Xingqiu
+Bennett,Venti,Xiangling,Xingqiu
+Diona,Hu Tao,Mona,Xingqiu
+Hu Tao,Rosaria,Xingqiu,Yelan
+Kazuha,Kokomi,Xingqiu,Yelan
+Albedo,Hu Tao,Xingqiu,Yelan
+Beidou,Fischl,Xingqiu,Yelan
