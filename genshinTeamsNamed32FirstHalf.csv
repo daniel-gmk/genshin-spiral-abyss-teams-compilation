@@ -97,7 +97,6 @@ Ayaka,Rosaria,Ayato,Venti
 Ayaka,Rosaria,Xingqiu,Venti
 Ayaka,Rosaria,Yelan,Kazuha
 Ayaka,Rosaria,Yelan,Venti
-Ayaka,Shenhe,Kazuha,Zhongli
 Ayaka,Shenhe,Kazuha,Diona
 Ayaka,Shenhe,Venti,Diona
 Nilou,Collei,Nahida,Barbara
@@ -218,7 +217,6 @@ Kokomi,Nahida,Xiangling,Collei
 Kokomi,Nahida,Mona,Yelan
 Kokomi,Nahida,Mona,Collei
 Kokomi,Nahida,Xingqiu,Collei
-Kokomi,Nahida,Xingqiu,TravelerDendro
 Kokomi,Nahida,Yelan,Collei
 Kokomi,Nahida,Yelan,TravelerDendro
 Kokomi,Nahida,Collei,TravelerDendro
@@ -464,7 +462,6 @@ Xingqiu,Fischl,Rosaria,Bennett
 Ayaka,Ayato,Diona,Shenhe
 Ayaka,Diona,Hu Tao,Mona
 Ayaka,Diona,Hu Tao,Xingqiu
-Bennett,Eula,Raiden,Xiangling
 Bennett,Ganyu,Venti,Xiangling
 Ganyu,Hu Tao,Xingqiu,Zhongli
 Hu Tao,Mona,Yelan,Zhongli
@@ -479,7 +476,6 @@ Hu Tao,Sucrose,Xingqiu,Yelan
 Ayaka,Diona,Kazuha,Kokomi
 Ayaka,Diona,Shenhe,Xingqiu
 Bennett,Hu Tao,Xiangling,Yelan
-Ayato,Xingqiu,Yae,Zhongli
 Beidou,Fischl,Kokomi,Xingqiu
 Bennett,Venti,Xiangling,Xingqiu
 Diona,Hu Tao,Mona,Xingqiu
