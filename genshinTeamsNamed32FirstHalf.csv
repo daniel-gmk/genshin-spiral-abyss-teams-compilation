@@ -1,17 +1,12 @@
 Character 1,Character 2,Character 3,Character 4
 Cyno,Collei,Kazuha,Shinobu
 Cyno,Collei,Kazuha,Dori
-Cyno,Collei,Sucrose,Shinobu
-Cyno,Collei,Sucrose,Dori
 Ganyu,Kokomi,Venti,Shenhe
 Ganyu,Kokomi,Venti,Rosaria
 Ganyu,Kokomi,Venti,Ayaka
 Ganyu,Kokomi,Kazuha,Shenhe
 Ganyu,Kokomi,Kazuha,Rosaria
 Ganyu,Kokomi,Kazuha,Ayaka
-Ganyu,Kokomi,Sucrose,Shenhe
-Ganyu,Kokomi,Sucrose,Rosaria
-Ganyu,Kokomi,Sucrose,Ayaka
 Ganyu,Ayato,Venti,Shenhe
 Ganyu,Ayato,Venti,Diona
 Ganyu,Ayato,Venti,Rosaria
@@ -20,10 +15,6 @@ Ganyu,Ayato,Kazuha,Shenhe
 Ganyu,Ayato,Kazuha,Diona
 Ganyu,Ayato,Kazuha,Rosaria
 Ganyu,Ayato,Kazuha,Ayaka
-Ganyu,Ayato,Sucrose,Shenhe
-Ganyu,Ayato,Sucrose,Diona
-Ganyu,Ayato,Sucrose,Rosaria
-Ganyu,Ayato,Sucrose,Ayaka
 Ganyu,Mona,Venti,Shenhe
 Ganyu,Mona,Venti,Diona
 Ganyu,Mona,Venti,Rosaria
@@ -32,11 +23,6 @@ Ganyu,Mona,Kazuha,Shenhe
 Ganyu,Mona,Kazuha,Diona
 Ganyu,Mona,Kazuha,Rosaria
 Ganyu,Mona,Kazuha,Ayaka
-Ganyu,Mona,Sucrose,Shenhe
-Ganyu,Mona,Sucrose,Diona
-Ganyu,Mona,Sucrose,Rosaria
-Ganyu,Mona,Sucrose,Ayaka
-Hu Tao,Xingqiu,Sucrose,Diona
 Hu Tao,Xingqiu,Kazuha,Diona
 Hu Tao,Xingqiu,Venti,Bennett
 Hu Tao,Xingqiu,Venti,Diona
@@ -88,43 +74,31 @@ Ayaka,Shenhe,Ayato,Venti
 Ayaka,Shenhe,Xingqiu,Venti
 Ayaka,Shenhe,Yelan,Kazuha
 Ayaka,Shenhe,Yelan,Venti
-Ayaka,Shenhe,Yelan,Sucrose
 Ayaka,Shenhe,Barbara,Venti
 Ayaka,Ganyu,Xingqiu,Kazuha
 Ayaka,Ganyu,Xingqiu,Venti
-Ayaka,Ganyu,Xingqiu,Sucrose
 Ayaka,Ganyu,Yelan,Kazuha
 Ayaka,Ganyu,Yelan,Venti
-Ayaka,Ganyu,Yelan,Sucrose
 Ayaka,Ganyu,Barbara,Kazuha
 Ayaka,Ganyu,Barbara,Venti
-Ayaka,Ganyu,Barbara,Sucrose
 Ayaka,Diona,Mona,Kazuha
 Ayaka,Diona,Mona,Venti
-Ayaka,Diona,Mona,Sucrose
 Ayaka,Diona,Ayato,Kazuha
 Ayaka,Diona,Ayato,Venti
-Ayaka,Diona,Ayato,Sucrose
 Ayaka,Diona,Xingqiu,Kazuha
 Ayaka,Diona,Xingqiu,Venti
-Ayaka,Diona,Xingqiu,Sucrose
 Ayaka,Diona,Yelan,Kazuha
 Ayaka,Diona,Yelan,Venti
-Ayaka,Diona,Yelan,Sucrose
 Ayaka,Diona,Tartaglia,Kazuha
 Ayaka,Diona,Tartaglia,Venti
-Ayaka,Diona,Tartaglia,Sucrose
 Ayaka,Rosaria,Kokomi,Venti
 Ayaka,Rosaria,Mona,Venti
 Ayaka,Rosaria,Ayato,Venti
 Ayaka,Rosaria,Xingqiu,Venti
 Ayaka,Rosaria,Yelan,Kazuha
 Ayaka,Rosaria,Yelan,Venti
-Ayaka,Rosaria,Yelan,Sucrose
 Ayaka,Shenhe,Kazuha,Zhongli
 Ayaka,Shenhe,Kazuha,Diona
-Ayaka,Shenhe,Sucrose,Zhongli
-Ayaka,Shenhe,Sucrose,Diona
 Ayaka,Shenhe,Venti,Diona
 Nilou,Collei,Nahida,Barbara
 Nilou,Collei,Nahida,Kokomi
@@ -449,8 +423,6 @@ Bennett,Yelan,Kazuha,Jean
 Bennett,Yelan,Sucrose,Jean
 Chongyun,Ganyu,Venti,Kokomi
 Chongyun,Ganyu,Venti,Barbara
-Chongyun,Ganyu,Sucrose,Kokomi
-Chongyun,Ganyu,Sucrose,Barbara
 Chongyun,Ganyu,Kazuha,Kokomi
 Chongyun,Ganyu,Kazuha,Barbara
 Chongyun,Rosaria,Venti,Kokomi
