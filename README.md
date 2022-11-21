@@ -5,10 +5,12 @@ It contains a curated csv file of valid teams to use in the Spiral Abyss.
 
 &nbsp;
 
-## Who uses this list?
+## Who uses this list or the randomizer?
 
 - My Genshin Randomizer: https://spiralabyss.genshinteams.online/
 - Forked and endorsed from Pustur's Genshin Randomizer: https://genshin-impact-team-randomizer.pages.dev/
+- A bunch of Genshin streamers who love the randomizer
+- Wangsheng Funeral Parlor Discord (Command to get link is !!abyssrandomizer)
 
 &nbsp;
 
@@ -44,8 +46,13 @@ Currently the data here is supplied by the following:
 
 - Mihoyo's Lineup Simulator: Using the script `genshin_teams_aggregation_from_mihoyo.py`
 - LvlUrArti's Spiral Stats repository: Using the script `genshin_teams_aggregation_from_spiral_stats.py`. Need to clone the repository from [here](https://github.com/piedorr/Spiral-Stats)
+- gcsim.app: Using the script `genshin_teams_aggregation_from_gcsim.py`
 
-To start the entire automated process, I recommend creating a "inputs" and "outputs" folder in this repository, and using the Run.bat on Windows (or port it to a .sh script if you're on Mac or Linux). To ensure the script works you need the following folder structure:
+To start the entire automated process, you MUST:
+
+- Create a "inputs" and "outputs" folder in this repository
+- Have the below folder structure:
+- Run with Run.bat on Windows (or port it to a .sh script if you're on Mac or Linux)
 
 ```
 Root
@@ -72,7 +79,7 @@ Once everything finishes running, you will have the following outputs:
 
 - denyList.csv: It is already populated, but will be appended with teams that the script deems may not have sustain, but can be manually added to the main list to override and ensure it is added.
 
-- reviewTravelerTeams.csv: Some teams do not have a specified Traveler type so we need to manually review. Copy all these values into the denyList so they do not show up again. Then change the Traveler to the following: TravelerElectro / TravelerAnemo / TravelerGeo / TravelerDendro. Lastly close this csv and run genshin_teams_traveler_sanitize.py. After the script is finished open the csv and move the teams to the main list and save.
+- reviewTravelerTeams.csv: Some teams do not have a specified Traveler type so we need to manually review. Copy all these values into the denyList AS IS (with just Traveler) so they do not show up again. Then change the Traveler to the following: TravelerElectro / TravelerAnemo / TravelerGeo / TravelerDendro. Lastly close the csv and run genshin_teams_traveler_sanitize.py. After the script is finished open the csv and move the teams to the main list and save.
 
 &nbsp;
 
