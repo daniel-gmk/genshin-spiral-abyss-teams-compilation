@@ -35,17 +35,6 @@ Hu Tao,Xingqiu,Venti,Shinobu
 Hu Tao,Xingqiu,Venti,Beidou
 Hu Tao,Xingqiu,Venti,Thoma
 Hu Tao,Xingqiu,Venti,Xiangling
-Hu Tao,Yelan,Sucrose,Bennett
-Hu Tao,Yelan,Sucrose,Diona
-Hu Tao,Yelan,Sucrose,Barbara
-Hu Tao,Yelan,Sucrose,Qiqi
-Hu Tao,Yelan,Sucrose,Zhongli
-Hu Tao,Yelan,Sucrose,Kokomi
-Hu Tao,Yelan,Sucrose,Dori
-Hu Tao,Yelan,Sucrose,Shinobu
-Hu Tao,Yelan,Sucrose,Beidou
-Hu Tao,Yelan,Sucrose,Thoma
-Hu Tao,Yelan,Sucrose,Xiangling
 Hu Tao,Yelan,Kazuha,Bennett
 Hu Tao,Yelan,Kazuha,Diona
 Hu Tao,Yelan,Kazuha,Barbara
@@ -103,24 +92,9 @@ Nilou,Nahida,Venti,Barbara
 Nilou,Nahida,Venti,Kokomi
 Nilou,Collei,Nahida,Barbara
 Nilou,Collei,Nahida,Kokomi
-Raiden,Xingqiu,Yelan,Bennett
-Raiden,Xingqiu,Yelan,Kokomi
-Raiden,Xingqiu,Yelan,Shinobu
-Raiden,Xingqiu,Fischl,Bennett
-Raiden,Xingqiu,Fischl,Kokomi
-Raiden,Xingqiu,Fischl,Jean
-Raiden,Xingqiu,Sara,Bennett
-Raiden,Xingqiu,Sara,Kokomi
-Raiden,Xingqiu,Sara,Jean
 Raiden,Xingqiu,Venti,Bennett
 Raiden,Xingqiu,Venti,Kokomi
 Raiden,Xingqiu,Venti,Jean
-Raiden,Xingqiu,Collei,Bennett
-Raiden,Xingqiu,Collei,Kokomi
-Raiden,Xingqiu,Collei,Jean
-Raiden,Yelan,Yae,Bennett
-Raiden,Yelan,Fischl,Bennett
-Raiden,Yelan,Sara,Bennett
 Raiden,Yelan,Kazuha,Bennett
 Raiden,Yelan,Kazuha,Kokomi
 Raiden,Yelan,Kazuha,Shinobu
@@ -129,11 +103,6 @@ Raiden,Yelan,Venti,Bennett
 Raiden,Yelan,Venti,Kokomi
 Raiden,Yelan,Venti,Shinobu
 Raiden,Yelan,Venti,Jean
-Raiden,Yelan,Sucrose,Bennett
-Raiden,Yelan,Sucrose,Kokomi
-Raiden,Yelan,Sucrose,Shinobu
-Raiden,Yelan,Sucrose,Jean
-Raiden,Yelan,Collei,Bennett
 Raiden,Yelan,Nahida,Bennett
 Raiden,Yelan,Nahida,Kokomi
 Raiden,Yelan,Nahida,Shinobu
@@ -142,32 +111,18 @@ Raiden,Fischl,Kazuha,Bennett
 Raiden,Fischl,Kazuha,Kokomi
 Raiden,Fischl,Venti,Bennett
 Raiden,Fischl,Venti,Kokomi
-Raiden,Fischl,Sucrose,Bennett
-Raiden,Fischl,Sucrose,Kokomi
 Raiden,Sara,Kazuha,Bennett
 Raiden,Sara,Kazuha,Kokomi
 Raiden,Sara,Venti,Bennett
 Raiden,Sara,Venti,Kokomi
-Raiden,Sara,Sucrose,Bennett
-Raiden,Sara,Sucrose,Kokomi
-Raiden,Sara,Collei,Bennett
-Raiden,Sara,Collei,Kokomi
-Raiden,Sara,Collei,Jean
 Raiden,Sara,Nahida,Bennett
 Raiden,Sara,Nahida,Kokomi
 Raiden,Sara,Nahida,Jean
-Raiden,Sara,TravelerDendro,Bennett
-Raiden,Sara,TravelerDendro,Kokomi
-Raiden,Sara,TravelerDendro,Jean
 Raiden,Collei,Nahida,Bennett
 Raiden,Collei,Nahida,Kokomi
 Raiden,Collei,Nahida,Jean
-Kokomi,Nahida,Fischl,Kazuha
-Kokomi,Nahida,Fischl,Sucrose
 Kokomi,Nahida,Kazuha,Yelan
 Kokomi,Nahida,Kazuha,Collei
-Kokomi,Nahida,Sucrose,Yelan
-Kokomi,Nahida,Sucrose,Collei
 Kokomi,Collei,Kazuha,Sucrose
 Kokomi,Collei,Kazuha,Xiangling
 Kokomi,Collei,Kazuha,Mona
@@ -175,12 +130,6 @@ Kokomi,Collei,Kazuha,Xingqiu
 Kokomi,Collei,Kazuha,Yelan
 Kokomi,Collei,Kazuha,Nahida
 Kokomi,Collei,Kazuha,TravelerDendro
-Kokomi,Collei,Sucrose,Xiangling
-Kokomi,Collei,Sucrose,Mona
-Kokomi,Collei,Sucrose,Xingqiu
-Kokomi,Collei,Sucrose,Yelan
-Kokomi,Collei,Sucrose,Nahida
-Kokomi,Collei,Sucrose,TravelerDendro
 Tighnari,Fischl,Kazuha,Bennett
 Tighnari,Fischl,Kazuha,Kokomi
 Tighnari,Fischl,Kazuha,Shinobu
@@ -212,12 +161,6 @@ Tartaglia,Kazuha,Xingqiu,Jean
 Tartaglia,Kazuha,Yelan,Bennett
 Tartaglia,Kazuha,Yelan,Jean
 Tartaglia,Kazuha,Fischl,Bennett
-Tartaglia,Sucrose,Xingqiu,Bennett
-Tartaglia,Sucrose,Xingqiu,Jean
-Tartaglia,Sucrose,Yelan,Bennett
-Tartaglia,Sucrose,Yelan,Jean
-Tartaglia,Sucrose,Fischl,Bennett
-Tartaglia,Sucrose,Fischl,Jean
 Tartaglia,Venti,Xingqiu,Bennett
 Tartaglia,Venti,Xingqiu,Jean
 Tartaglia,Venti,Yelan,Bennett
@@ -226,10 +169,6 @@ Tartaglia,Venti,Fischl,Bennett
 Tartaglia,Venti,Fischl,Jean
 Tartaglia,Rosaria,Shenhe,Venti
 Tartaglia,Rosaria,Shenhe,Kazuha
-Xiao,Sucrose,Fischl,Bennett
-Xiao,Sucrose,Yelan,Bennett
-Xiao,Sucrose,Fischl,Jean
-Xiao,Sucrose,Yelan,Jean
 Bennett,Xiangling,Yelan,Kazuha
 Bennett,Xiangling,Yelan,Sucrose
 Bennett,Yelan,Chongyun,Kazuha
@@ -249,17 +188,10 @@ Bennett,Yae,Sara,Kazuha
 Sucrose,Xingqiu,Fischl,Beidou
 Kazuha,Xingqiu,Fischl,Beidou
 Bennett,Collei,Kazuha,Beidou
-Bennett,Collei,Sucrose,Beidou
 Bennett,Collei,Kazuha,Fischl
 Bennett,TravelerDendro,Kazuha,Fischl
 Bennett,Nahida,Kazuha,Fischl
-Bennett,Collei,Sucrose,Fischl
-Bennett,TravelerDendro,Sucrose,Fischl
-Bennett,Nahida,Sucrose,Fischl
-Bennett,Collei,Kazuha,Yae
-Bennett,Collei,Sucrose,Yae
 Bennett,Yelan,Kazuha,Jean
-Bennett,Yelan,Sucrose,Jean
 Chongyun,Ganyu,Venti,Kokomi
 Chongyun,Ganyu,Venti,Barbara
 Chongyun,Ganyu,Kazuha,Kokomi
@@ -274,22 +206,13 @@ Fischl,Kazuha,TravelerDendro,Shinobu
 Fischl,Kazuha,TravelerDendro,Dori
 Fischl,Kazuha,Nahida,Shinobu
 Fischl,Kazuha,Nahida,Dori
-Fischl,Sucrose,Collei,Shinobu
-Fischl,Sucrose,Collei,Dori
-Fischl,Sucrose,TravelerDendro,Shinobu
-Fischl,Sucrose,TravelerDendro,Dori
-Fischl,Sucrose,Nahida,Shinobu
-Fischl,Sucrose,Nahida,Dori
 Yae,Kazuha,Collei,Shinobu
 Yae,Kazuha,Collei,Dori
-Yae,Sucrose,Collei,Shinobu
-Yae,Sucrose,Collei,Dori
 Beidou,Kazuha,Collei,Shinobu
 Beidou,Kazuha,Collei,Dori
 Bennett,Ganyu,Venti,Xiangling
 Bennett,Ganyu,Kazuha,Xiangling
 Diona,Ganyu,Hu Tao,Kazuha
 Hu Tao,Kazuha,Xingqiu,Yelan
-Hu Tao,Sucrose,Xingqiu,Yelan
 Ayaka,Diona,Kazuha,Kokomi
 Bennett,Venti,Xiangling,Xingqiu
