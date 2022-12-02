@@ -2,26 +2,20 @@ Character 1,Character 2,Character 3,Character 4
 Cyno,Collei,Kazuha,Shinobu
 Cyno,Collei,Kazuha,Dori
 Ganyu,Kokomi,Venti,Shenhe
-Ganyu,Kokomi,Venti,Rosaria
 Ganyu,Kokomi,Venti,Ayaka
 Ganyu,Kokomi,Kazuha,Shenhe
-Ganyu,Kokomi,Kazuha,Rosaria
 Ganyu,Kokomi,Kazuha,Ayaka
 Ganyu,Ayato,Venti,Shenhe
 Ganyu,Ayato,Venti,Diona
-Ganyu,Ayato,Venti,Rosaria
 Ganyu,Ayato,Venti,Ayaka
 Ganyu,Ayato,Kazuha,Shenhe
 Ganyu,Ayato,Kazuha,Diona
-Ganyu,Ayato,Kazuha,Rosaria
 Ganyu,Ayato,Kazuha,Ayaka
 Ganyu,Mona,Venti,Shenhe
 Ganyu,Mona,Venti,Diona
-Ganyu,Mona,Venti,Rosaria
 Ganyu,Mona,Venti,Ayaka
 Ganyu,Mona,Kazuha,Shenhe
 Ganyu,Mona,Kazuha,Diona
-Ganyu,Mona,Kazuha,Rosaria
 Ganyu,Mona,Kazuha,Ayaka
 Hu Tao,Xingqiu,Kazuha,Diona
 Hu Tao,Xingqiu,Venti,Bennett
@@ -80,12 +74,6 @@ Ayaka,Diona,Yelan,Kazuha
 Ayaka,Diona,Yelan,Venti
 Ayaka,Diona,Tartaglia,Kazuha
 Ayaka,Diona,Tartaglia,Venti
-Ayaka,Rosaria,Kokomi,Venti
-Ayaka,Rosaria,Mona,Venti
-Ayaka,Rosaria,Ayato,Venti
-Ayaka,Rosaria,Xingqiu,Venti
-Ayaka,Rosaria,Yelan,Kazuha
-Ayaka,Rosaria,Yelan,Venti
 Ayaka,Shenhe,Kazuha,Diona
 Ayaka,Shenhe,Venti,Diona
 Raiden,Xingqiu,Venti,Bennett
