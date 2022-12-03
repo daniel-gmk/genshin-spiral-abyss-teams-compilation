@@ -233,11 +233,8 @@ Tartaglia,Venti,Yelan,Jean
 Tartaglia,Xingqiu,Yelan,Bennett
 Tartaglia,Xingqiu,Yelan,Jean
 Tartaglia,Collei,Nahida,Kokomi
-Tartaglia,Collei,Nahida,Jean
 Tartaglia,Collei,TravelerDendro,Kokomi
-Tartaglia,Collei,TravelerDendro,Jean
 Tartaglia,Nahida,TravelerDendro,Kokomi
-Tartaglia,Nahida,TravelerDendro,Jean
 Tartaglia,Xingqiu,Collei,Kokomi
 Tartaglia,Xingqiu,Collei,Jean
 Tartaglia,Xingqiu,Collei,Bennett
@@ -507,3 +504,4 @@ Layla,Xingqiu,Yelan,Yoimiya
 Nahida,Xiangling,Xingqiu,Zhongli
 Rosaria,Xingqiu,Yoimiya,Zhongli
 Xiangling,Xingqiu,Yoimiya,Zhongli
+Ayato,Bennett,Collei,Xiangling
