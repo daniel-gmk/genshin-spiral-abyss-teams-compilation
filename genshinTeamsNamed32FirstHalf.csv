@@ -148,12 +148,6 @@ Bennett,Collei,Kazuha,Fischl
 Bennett,TravelerDendro,Kazuha,Fischl
 Bennett,Nahida,Kazuha,Fischl
 Bennett,Yelan,Kazuha,Jean
-Chongyun,Ganyu,Venti,Kokomi
-Chongyun,Ganyu,Venti,Barbara
-Chongyun,Ganyu,Kazuha,Kokomi
-Chongyun,Ganyu,Kazuha,Barbara
-Chongyun,Shenhe,Venti,Kokomi
-Chongyun,Shenhe,Venti,Barbara
 Fischl,Kazuha,Nahida,Shinobu
 Fischl,Kazuha,Nahida,Dori
 Yae,Kazuha,Collei,Shinobu
@@ -253,7 +247,6 @@ Kazuha,Nahida,Shinobu,Tartaglia
 Kokomi,Nahida,Venti,Yae
 Nahida,Raiden,Shinobu,Venti
 Nahida,Shinobu,Venti,Xingqiu
-,,,
 Keqing,Fischl,Collei,Kazuha
 Keqing,Fischl,Collei,Venti
 Keqing,Fischl,TravelerDendro,Kazuha
