@@ -253,7 +253,7 @@ Kazuha,Nahida,Shinobu,Tartaglia
 Kokomi,Nahida,Venti,Yae
 Nahida,Raiden,Shinobu,Venti
 Nahida,Shinobu,Venti,Xingqiu
-Fischl,Kazuha,Keqing,Zhongli
+,,,
 Keqing,Fischl,Collei,Kazuha
 Keqing,Fischl,Collei,Venti
 Keqing,Fischl,TravelerDendro,Kazuha
@@ -267,14 +267,11 @@ Keqing,Shinobu,Nahida,Venti
 Keqing,Xingqiu,Fischl,Kazuha
 Keqing,Xingqiu,Fischl,Venti
 Keqing,Xingqiu,Shinobu,Venti
-Keqing,Xingqiu,Yelan,Venti
 Keqing,Xingqiu,Yelan,Kazuha
 Keqing,Fischl,Kokomi,Kazuha
 Keqing,Fischl,Kokomi,Venti
 Keqing,Beidou,Sara,Kazuha
 Keqing,Beidou,Sara,Venti
-Keqing,Beidou,Fischl,Kazuha
-Keqing,Beidou,Fischl,Venti
 Keqing,Bennett,Fischl,Kazuha
 Keqing,Bennett,Fischl,Venti
 Keqing,Sara,Venti,Bennett
