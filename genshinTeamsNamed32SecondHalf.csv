@@ -1,8 +1,6 @@
 Character 1,Character 2,Character 3,Character 4
-Itto,Gorou,Albedo,Shinobu
 Itto,Gorou,Albedo,Diona
 Itto,Gorou,Albedo,Qiqi
-Itto,Gorou,Albedo,Dori
 Itto,Gorou,Albedo,Kokomi
 Itto,Gorou,Albedo,Zhongli
 Itto,Gorou,Bennett,Zhongli
@@ -270,11 +268,7 @@ Yoimiya,Yelan,Yun Jin,Zhongli
 Yoimiya,Yelan,Yun Jin,Thoma
 Yoimiya,Yelan,Albedo,Zhongli
 Yoimiya,Yelan,Albedo,Thoma
-Yoimiya,Xingqiu,Sucrose,Thoma
-Yoimiya,Xingqiu,Heizou,Thoma
 Yoimiya,Xingqiu,Kazuha,Thoma
-Yoimiya,Yelan,Sucrose,Thoma
-Yoimiya,Yelan,Heizou,Thoma
 Yoimiya,Yelan,Kazuha,Thoma
 Yoimiya,Kazuha,Zhongli,Bennett
 Yoimiya,Kazuha,Albedo,Bennett
@@ -481,7 +475,6 @@ Bennett,Faruzan,Xiao,Zhongli
 Ayato,Bennett,Kazuha,TravelerDendro
 Hu Tao,TravelerDendro,Xingqiu,Yelan
 Raiden,Yelan,Yoimiya,Zhongli
-Shinobu,Xingqiu,Yoimiya,Yun Jin
 Diona,Xingqiu,Yelan,Yoimiya
 Hu Tao,Layla,Xingqiu,Yelan
 Hu Tao,Nahida,Xingqiu,Yelan
