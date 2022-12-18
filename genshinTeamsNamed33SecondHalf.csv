@@ -189,7 +189,6 @@ Ayaka,Hu Tao,Kazuha,Zhongli
 Ayaka,Hu Tao,Venti,Zhongli
 Ayato,Xingqiu,Yae,Zhongli
 Ayato,Yelan,Yun Jin,Zhongli
-Bennett,Eula,Raiden,Zhongli
 Bennett,Ganyu,Kazuha,Zhongli
 Bennett,Ganyu,Xiangling,Zhongli
 Bennett,Gorou,Itto,Zhongli
@@ -199,11 +198,7 @@ Bennett,Raiden,Xiao,Zhongli
 Bennett,Xiangling,Xiao,Zhongli
 Bennett,Xingqiu,Yoimiya,Zhongli
 Bennett,Yelan,Yoimiya,Zhongli
-Diluc,Kazuha,Xiangling,Zhongli
-Diluc,Venti,Xiao,Zhongli
 Diona,Eula,Raiden,Zhongli
-Eula,Fischl,Kazuha,Zhongli
-Eula,Raiden,Rosaria,Zhongli
 Fischl,Gorou,Itto,Zhongli
 Fischl,Hu Tao,Venti,Zhongli
 Fischl,Hu Tao,Xingqiu,Zhongli
@@ -238,7 +233,6 @@ Xingqiu,Yanfei,Yoimiya,Zhongli
 Xingqiu,Yelan,Yoimiya,Zhongli
 Xingqiu,Yoimiya,Yun Jin,Zhongli
 Yelan,Yoimiya,Yun Jin,Zhongli
-Albedo,Eula,Raiden,Zhongli
 Albedo,Gorou,Itto,Zhongli
 Albedo,Hu Tao,Xingqiu,Zhongli
 Albedo,Hu Tao,Yelan,Zhongli
@@ -251,7 +245,6 @@ Ayaka,Hu Tao,Xingqiu,Zhongli
 Ayaka,Kazuha,Shenhe,Zhongli
 Ayato,Kazuha,Yae,Zhongli
 Ayato,Kazuha,Yelan,Zhongli
-Bennett,Eula,Raiden,Zhongli
 Bennett,Ganyu,Xiangling,Zhongli
 Bennett,Ningguang,Xiangling,Zhongli
 Bennett,Raiden,Venti,Zhongli
@@ -259,8 +252,6 @@ Bennett,Raiden,Xingqiu,Zhongli
 Bennett,Raiden,Yae,Zhongli
 Bennett,Sucrose,Xiao,Zhongli
 Bennett,Venti,Xiao,Zhongli
-Eula,Fischl,Rosaria,Zhongli
-Eula,Raiden,Rosaria,Zhongli
 Fischl,Hu Tao,Xingqiu,Zhongli
 Fischl,Tighnari,Yae,Zhongli
 Fischl,Venti,Xiao,Zhongli
@@ -297,7 +288,6 @@ Albedo,Mona,Xiao,Zhongli
 Albedo,Sucrose,Xiao,Zhongli
 Albedo,Yelan,Yoimiya,Zhongli
 Beidou,Gorou,Itto,Zhongli
-Bennett,Eula,Raiden,Zhongli
 Bennett,Ganyu,Kazuha,Zhongli
 Bennett,Ganyu,Xiangling,Zhongli
 Bennett,Gorou,Itto,Zhongli
@@ -306,9 +296,6 @@ Bennett,Raiden,Xiangling,Zhongli
 Bennett,Raiden,Yae,Zhongli
 Bennett,Xingqiu,Yoimiya,Zhongli
 Diona,Eula,Raiden,Zhongli
-Eula,Fischl,Rosaria,Zhongli
-Eula,Raiden,Rosaria,Zhongli
-Eula,Rosaria,Shinobu,Zhongli
 Fischl,Gorou,Itto,Zhongli
 Fischl,Hu Tao,Xingqiu,Zhongli
 Fischl,Raiden,Xingqiu,Zhongli
@@ -348,7 +335,6 @@ Ayato,Fischl,Kazuha,Zhongli
 Ayato,Kazuha,Yae,Zhongli
 Ayato,Kazuha,Yun Jin,Zhongli
 Beidou,Gorou,Itto,Zhongli
-Bennett,Eula,Raiden,Zhongli
 Bennett,Ganyu,Xiangling,Zhongli
 Bennett,Ningguang,Xiangling,Zhongli
 Bennett,Raiden,Sara,Zhongli
@@ -357,10 +343,6 @@ Bennett,Raiden,Xiao,Zhongli
 Bennett,Sucrose,Xiao,Zhongli
 Collei,Cyno,Fischl,Zhongli
 Diona,Eula,Raiden,Zhongli
-Eula,Fischl,Rosaria,Zhongli
-Eula,Raiden,Rosaria,Zhongli
-Eula,Raiden,Yelan,Zhongli
-Eula,Rosaria,Shinobu,Zhongli
 Fischl,Hu Tao,Xingqiu,Zhongli
 Fischl,Tighnari,Yae,Zhongli
 Fischl,Venti,Xiao,Zhongli
@@ -400,7 +382,6 @@ Albedo,Xingqiu,Yoimiya,Zhongli
 Ayaka,Itto,Venti,Zhongli
 Ayaka,Kazuha,Shenhe,Zhongli
 Ayato,Fischl,Kazuha,Zhongli
-Bennett,Eula,Raiden,Zhongli
 Bennett,Ganyu,Kazuha,Zhongli
 Bennett,Ganyu,Nahida,Zhongli
 Bennett,Ganyu,Xiangling,Zhongli
@@ -413,11 +394,6 @@ Collei,Fischl,Keqing,Zhongli
 Cyno,Fischl,Nahida,Zhongli
 Cyno,Nahida,Xingqiu,Zhongli
 Diona,Eula,Raiden,Zhongli
-Eula,Fischl,Raiden,Zhongli
-Eula,Fischl,Rosaria,Zhongli
-Eula,Raiden,Rosaria,Zhongli
-Eula,Raiden,Yelan,Zhongli
-Eula,Rosaria,Shinobu,Zhongli
 Fischl,Gorou,Itto,Zhongli
 Fischl,Hu Tao,Xingqiu,Zhongli
 Fischl,Hu Tao,Yelan,Zhongli
@@ -450,7 +426,6 @@ Sucrose,Venti,Xiao,Zhongli
 Yelan,Yoimiya,Yun Jin,Zhongli
 Albedo,Bennett,Xiao,Zhongli
 Albedo,Diluc,Xingqiu,Zhongli
-Albedo,Eula,Mona,Zhongli
 Albedo,Gorou,Itto,Zhongli
 Albedo,Hu Tao,Xingqiu,Yelan
 Albedo,Hu Tao,Xingqiu,Zhongli
@@ -461,8 +436,6 @@ Ayaka,Hu Tao,Xingqiu,Zhongli
 Ayato,Bennett,Xiangling,Zhongli
 Ayato,Nahida,Shinobu,Zhongli
 Bennett,Diluc,Xingqiu,Zhongli
-Bennett,Eula,Raiden,Zhongli
-Bennett,Eula,Xiangling,Zhongli
 Bennett,Ganyu,Xiangling,Zhongli
 Bennett,Gorou,Itto,Zhongli
 Bennett,Hu Tao,Xingqiu,Zhongli
@@ -475,8 +448,6 @@ Bennett,Xiangling,Xingqiu,Zhongli
 Bennett,Xingqiu,Yoimiya,Zhongli
 Bennett,Yelan,Yoimiya,Zhongli
 Diluc,Xingqiu,Yelan,Zhongli
-Eula,Raiden,Rosaria,Zhongli
-Eula,Rosaria,Shinobu,Zhongli
 Fischl,Hu Tao,Xingqiu,Zhongli
 Fischl,Nahida,Xingqiu,Zhongli
 Fischl,Xingqiu,Yoimiya,Zhongli
@@ -514,7 +485,6 @@ Albedo,Bennett,Xiangling,Xingqiu
 Albedo,Bennett,Xiao,Zhongli
 Albedo,Collei,Cyno,Zhongli
 Albedo,Collei,Razor,Zhongli
-Albedo,Eula,Rosaria,Zhongli
 Albedo,Fischl,Gorou,Noelle
 Albedo,Ganyu,Rosaria,Zhongli
 Albedo,Ganyu,Shenhe,Zhongli
@@ -558,11 +528,6 @@ Collei,Nilou,Raiden,Zhongli
 Collei,Tighnari,TravelerDendro,Zhongli
 Cyno,Fischl,Nahida,Zhongli
 Cyno,Fischl,TravelerDendro,Zhongli
-Eula,Fischl,Rosaria,Zhongli
-Eula,Raiden,Rosaria,Zhongli
-Eula,Raiden,Yelan,Zhongli
-Eula,Rosaria,Shenhe,Zhongli
-Eula,Rosaria,Yae,Zhongli
 Fischl,Hu Tao,Xingqiu,Zhongli
 Fischl,Kazuha,Yae,Zhongli
 Fischl,Keqing,Nahida,Zhongli
