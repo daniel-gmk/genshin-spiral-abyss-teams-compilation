@@ -10,6 +10,10 @@ print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 print("PULLING DATA FROM SPIRAL STATS BY LVLURARTI")
 print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 
+mappings = {
+    "Alhatham": "Alhaitham",
+}
+
 # For each file, open and convert
 
 for filename in os.listdir(directory):
@@ -51,6 +55,10 @@ for filename in os.listdir(directory):
     print("EXPORTING RESULTS")
 
     resultFileName = filename[:-4] + "Processed" + ".csv"
+
+    # Replace correct wording
+    for mapping in mappings.keys():
+        compArray = np.char.replace(compArray, mapping, mappings[mapping])
 
     # Export to CSV
     resultPath = os.path.join(destination, resultFileName)
