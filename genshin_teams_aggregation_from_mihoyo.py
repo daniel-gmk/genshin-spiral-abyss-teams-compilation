@@ -17,7 +17,7 @@ def loadData(f1):
 
         likes = driver.find_elements(By.CLASS_NAME, "src-components-common-comment-__comment_---pcCommentWrap---DcvmRu")
 
-        for item in likes[-5:]:
+        for item in likes[-10:]:
             for elem in item.find_elements(By.XPATH, ".//*"):
                 if (elem.text.isnumeric() and int(elem.text) >= threshold):
                     endparse = True
