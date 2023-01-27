@@ -29,7 +29,6 @@ print("LOADING MAIN CSV TO COMPARE AGAINST")
 
 fr = open(mainFileName, 'r')
 mainFileArray = np.loadtxt(fr, delimiter=",", dtype=str)
-mainFileArray = mainFileArray[1:]
 mainFileArray = np.sort(mainFileArray)
 fr.close()
 
@@ -48,6 +47,6 @@ mainFileArray = np.unique(uniqueConvert, axis=0)
 
 print("SAVING OUTPUT CSV FILES")
 
-np.savetxt("genshinTeamsNamedFiltered.csv", mainFileArray, fmt='%s', delimiter=',', newline='\n', header='', footer='', comments='# ', encoding=None)
+np.savetxt("genshinTeamsNamed.csv", mainFileArray, fmt='%s', delimiter=',', newline='\n', header='', footer='', comments='# ', encoding=None)
 
 print("COMPLETE")

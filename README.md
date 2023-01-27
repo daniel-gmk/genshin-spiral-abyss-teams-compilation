@@ -21,7 +21,7 @@ The criteria for a "valid team" will always be arbitrary, but the criteria used 
 - A supermajority of players (70%+) can use any team here and clear Spiral Abyss with 33-36 stars
 - Players may have to swap around artifacts/weapons but most players have a "pool" of both to switch around
 
-Likely setups the average player has includes:
+Likely setups the average AR55+ player has includes:
 
 - 5\* star characters + weapons (C1 / R1)
 - 4\* star characters + weapons (C2-C6 / R2-R6)
@@ -39,7 +39,6 @@ Currently the data here is supplied by the following:
 **Manual**
 
 - Keqingmains character guides
-- gcsim database
 - Personal testing with above average setup
 
 **Automated**
@@ -47,6 +46,7 @@ Currently the data here is supplied by the following:
 - Mihoyo's Lineup Simulator: Using the script `genshin_teams_aggregation_from_mihoyo.py`
 - LvlUrArti's Spiral Stats repository: Using the script `genshin_teams_aggregation_from_spiral_stats.py`. Need to clone the repository from [here](https://github.com/piedorr/Spiral-Stats)
 - gcsim.app: Using the script `genshin_teams_aggregation_from_gcsim.py`
+- CN Akasha Data: Using the script `genshin_teams_aggregation_from_akashadata`
 
 To start the entire automated process, you MUST:
 
@@ -71,11 +71,12 @@ Root
         │ Python Scripts
         │ genshinTeamsNamed.csv
         │ Run.bat (or linux/mac equivalent)
+        | Sanitize.bat (or linux/mac equivalent)
 ```
 
 Once everything finishes running, you will have the following outputs:
 
-- aggregatedTeams.csv: Contains a filtered list of teams that do not already exist in the main list and guarantee some form of sustain
+- aggregatedTeams.csv: Contains a filtered list of teams that do not already exist in the main list and guarantee some form of sustain. Add to the genshinTeamsNamed.csv and then sanitize/sort with Sanitize.bat
 
 - denyList.csv: It is already populated, but will be appended with teams that the script deems may not have sustain, but can be manually added to the main list to override and ensure it is added.
 
