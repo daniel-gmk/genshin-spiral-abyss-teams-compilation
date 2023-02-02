@@ -15,7 +15,6 @@ Fischl,Sucrose,Xingqiu,Yelan
 Hu Tao,Kazuha,Mona,Xiangling
 Hu Tao,Kazuha,Sucrose,Yoimiya
 Keqing,Sucrose,Xiangling,Yae
-Albedo,Fischl,Gorou,Itto
 Ayaka,Eula,Raiden,Yelan
 Ayaka,Fischl,Raiden,Xingqiu
 Ayato,Beidou,Fischl,Kazuha
@@ -102,7 +101,6 @@ Shinobu,Tighnari,Traveler,Yae
 Albedo,Collei,Cyno,Fischl
 Albedo,Collei,Fischl,Keqing
 Albedo,Fischl,Tighnari,Yae
-Albedo,Gorou,Itto,Yelan
 Albedo,Nahida,Raiden,Tartaglia
 Albedo,Nahida,Raiden,Xingqiu
 Ayato,Beidou,Cyno,Nahida
@@ -178,10 +176,8 @@ Ganyu,Gorou,Qiqi,Zhongli
 Fischl,Nahida,Razor,Xingqiu
 Kazuha,Raiden,TravelerDendro,Yae
 Collei,Fischl,Kazuha,Keqing
-Albedo,Gorou,Itto,Mona
 Collei,Fischl,Kazuha,Keqing
 Fischl,Xingqiu,Yae,Yelan
-Albedo,Gorou,Itto,Yae
 Beidou,Candace,Nahida,Raiden
 Beidou,Fischl,Kazuha,Nahida
 Collei,Gorou,Heizou,Nahida
@@ -233,8 +229,6 @@ Kazuha,Keqing,Nahida,Sara
 Xiangling,Xingqiu,Yelan,Yoimiya
 Barbara,Kaeya,Rosaria,Sucrose
 Kazuha,Keqing,Raiden,TravelerDendro
-Albedo,Beidou,Gorou,Itto
-Albedo,Gorou,Itto,Yanfei
 Ayato,Beidou,Nahida,Raiden
 Ayato,Kazuha,Xingqiu,Yelan
 Beidou,Candace,Raiden,TravelerDendro
@@ -265,3 +259,18 @@ Nahida,Sara,Tighnari,Yae
 Nahida,TravelerDendro,Xingqiu,Yae
 Nahida,Xiangling,Xingqiu,Yelan
 Nahida,Xingqiu,Yelan,Yoimiya
+Albedo,Collei,Fischl,Ningguang
+Alhaitham,Beidou,Fischl,Nahida
+Alhaitham,Fischl,Kazuha,Raiden
+Alhaitham,Fischl,Kazuha,Yae
+Alhaitham,Fischl,Nahida,Raiden
+Cyno,Fischl,Lisa,Nahida
+Fischl,Hu Tao,Yae,Yelan
+Fischl,Kazuha,Nahida,Razor
+Fischl,Wanderer,Xingqiu,Yelan
+Nahida,Raiden,Wanderer,Xingqiu
+Alhaitham,Nahida,Raiden,Xingqiu
+Ayaka,Bennett,Rosaria,Xinyan
+Bennett,Kazuha,Nahida,Sayu
+Albedo,Gorou,Itto,Yelan
+Albedo,Gorou,Itto,Yae

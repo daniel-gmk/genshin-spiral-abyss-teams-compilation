@@ -213,6 +213,7 @@ Albedo,Bennett,Tartaglia,Yun Jin
 Albedo,Bennett,Tighnari,Yae
 Albedo,Bennett,Venti,Xiao
 Albedo,Bennett,Venti,Yoimiya
+Albedo,Bennett,Wanderer,Zhongli
 Albedo,Bennett,Xiangling,Xingqiu
 Albedo,Bennett,Xiangling,Yelan
 Albedo,Bennett,Xiao,Zhongli
@@ -344,7 +345,6 @@ Albedo,Fischl,Shinobu,Tighnari
 Albedo,Fischl,Tartaglia,Zhongli
 Albedo,Fischl,Tighnari,Zhongli
 Albedo,Fischl,Xiao,Zhongli
-Albedo,Fischl,Yelan,Yoimiya
 Albedo,Ganyu,Kaeya,Zhongli
 Albedo,Ganyu,Kokomi,Razor
 Albedo,Ganyu,Noelle,Shenhe
@@ -843,6 +843,7 @@ Alhaitham,Kokomi,Lisa,Zhongli
 Alhaitham,Kokomi,Nahida,Nilou
 Alhaitham,Kokomi,Nahida,Raiden
 Alhaitham,Kokomi,Nahida,Shinobu
+Alhaitham,Kokomi,Nahida,Xiangling
 Alhaitham,Kokomi,Nahida,Xingqiu
 Alhaitham,Kokomi,Nahida,Yae
 Alhaitham,Kokomi,Nahida,Yelan
@@ -988,22 +989,9 @@ Alhaitham,Yae,Yaoyao,Yelan
 Alhaitham,Yae,Yaoyao,Zhongli
 Alhaitham,Yae,Yelan,Zhongli
 Alhaitham,Yanfei,Yaoyao,Yelan
-Aloy,Ayaka,Barbara,Kazuha
-Aloy,Ayaka,Barbara,Sucrose
-Aloy,Ayaka,Barbara,TravelerAnemo
-Aloy,Ayaka,Barbara,Venti
 Aloy,Ayaka,Bennett,Xiangling
-Aloy,Ayaka,Diona,Ganyu
-Aloy,Ayaka,Diona,Kaeya
-Aloy,Ayaka,Diona,Rosaria
 Aloy,Ayaka,Diona,Shenhe
-Aloy,Ayaka,Ganyu,Qiqi
-Aloy,Ayaka,Ganyu,Zhongli
-Aloy,Ayaka,Jean,Layla
-Aloy,Ayaka,Jean,Mona
 Aloy,Ayaka,Jean,Xingqiu
-Aloy,Ayaka,Kaeya,Qiqi
-Aloy,Ayaka,Kaeya,Zhongli
 Aloy,Ayaka,Kazuha,Kokomi
 Aloy,Ayaka,Kokomi,Sucrose
 Aloy,Ayaka,Kokomi,TravelerAnemo
@@ -1011,7 +999,6 @@ Aloy,Ayaka,Kokomi,Venti
 Aloy,Ayaka,Layla,Sayu
 Aloy,Ayaka,Qiqi,Rosaria
 Aloy,Ayaka,Qiqi,Shenhe
-Aloy,Ayaka,Rosaria,Zhongli
 Aloy,Ayaka,Shenhe,Zhongli
 Aloy,Ayato,Ganyu,Jean
 Aloy,Ayato,Ganyu,Kazuha
@@ -1074,9 +1061,6 @@ Aloy,Bennett,Kaeya,Tighnari
 Aloy,Bennett,Kaeya,Xiangling
 Aloy,Bennett,Kazuha,Layla
 Aloy,Bennett,Kazuha,Xiangling
-Aloy,Bennett,Layla,Sucrose
-Aloy,Bennett,Layla,TravelerAnemo
-Aloy,Bennett,Layla,Venti
 Aloy,Bennett,Mona,Xiangling
 Aloy,Bennett,Raiden,Xiangling
 Aloy,Bennett,Rosaria,Tighnari
@@ -1251,7 +1235,6 @@ Amber,Ayato,Layla,Tighnari
 Amber,Ayato,Layla,TravelerDendro
 Amber,Ayato,Sucrose,Yaoyao
 Amber,Ayato,TravelerDendro,Yaoyao
-Amber,Barbara,Collei,Diona
 Amber,Barbara,Collei,Ganyu
 Amber,Barbara,Collei,Kazuha
 Amber,Barbara,Collei,Layla
@@ -1294,12 +1277,7 @@ Amber,Bennett,Diona,Rosaria
 Amber,Bennett,Diona,Shenhe
 Amber,Bennett,Fischl,Xingqiu
 Amber,Bennett,Fischl,Yelan
-Amber,Bennett,Ganyu,Heizou
-Amber,Bennett,Ganyu,Kaeya
-Amber,Bennett,Ganyu,Kazuha
-Amber,Bennett,Ganyu,Rosaria
 Amber,Bennett,Ganyu,Shenhe
-Amber,Bennett,Ganyu,Sucrose
 Amber,Bennett,Ganyu,Venti
 Amber,Bennett,Heizou,Kaeya
 Amber,Bennett,Heizou,Rosaria
@@ -1449,6 +1427,7 @@ Amber,Jean,Kazuha,Rosaria
 Amber,Jean,Rosaria,Shenhe
 Amber,Jean,Rosaria,Sucrose
 Amber,Jean,Rosaria,Venti
+Amber,Kazuha,Kokomi,Nahida
 Amber,Kazuha,Kokomi,TravelerDendro
 Amber,Kokomi,Layla,Nahida
 Amber,Kokomi,Layla,Tighnari
@@ -1571,6 +1550,7 @@ Ayaka,Chongyun,Jean,Layla
 Ayaka,Chongyun,Layla,Sayu
 Ayaka,Diona,Faruzan,Wanderer
 Ayaka,Diona,Ganyu,Kaeya
+Ayaka,Diona,Ganyu,Kazuha
 Ayaka,Diona,Ganyu,Rosaria
 Ayaka,Diona,Ganyu,Shenhe
 Ayaka,Diona,Heizou,Layla
@@ -1747,6 +1727,7 @@ Ayaka,Kokomi,Raiden,Shenhe
 Ayaka,Kokomi,Rosaria,Sucrose
 Ayaka,Kokomi,Rosaria,Venti
 Ayaka,Kokomi,Shenhe,Sucrose
+Ayaka,Kokomi,Shenhe,TravelerAnemo
 Ayaka,Kokomi,Shenhe,Venti
 Ayaka,Kokomi,Shenhe,Yae
 Ayaka,Kokomi,Shenhe,Zhongli
@@ -2915,8 +2896,6 @@ Beidou,Dori,Eula,Zhongli
 Beidou,Dori,Fischl,Yanfei
 Beidou,Dori,Heizou,Nahida
 Beidou,Dori,Heizou,TravelerDendro
-Beidou,Dori,Jean,Nahida
-Beidou,Dori,Jean,TravelerDendro
 Beidou,Dori,Kazuha,Nahida
 Beidou,Dori,Kazuha,TravelerDendro
 Beidou,Dori,Nahida,Razor
@@ -2999,8 +2978,6 @@ Beidou,Fischl,Jean,Tartaglia
 Beidou,Fischl,Jean,TravelerDendro
 Beidou,Fischl,Jean,Yanfei
 Beidou,Fischl,Jean,Zhongli
-Beidou,Fischl,Kaeya,Keqing
-Beidou,Fischl,Kaeya,Noelle
 Beidou,Fischl,Kaeya,Xingqiu
 Beidou,Fischl,Kazuha,Keqing
 Beidou,Fischl,Kazuha,Kokomi
@@ -3448,6 +3425,7 @@ Bennett,Chongyun,Kazuha,Yelan
 Bennett,Chongyun,Layla,Sucrose
 Bennett,Chongyun,Layla,TravelerAnemo
 Bennett,Chongyun,Layla,Venti
+Bennett,Chongyun,Nahida,Rosaria
 Bennett,Chongyun,Rosaria,Sucrose
 Bennett,Chongyun,Rosaria,Xiangling
 Bennett,Chongyun,Shenhe,Xiangling
@@ -3629,9 +3607,13 @@ Bennett,Faruzan,Jean,Wanderer
 Bennett,Faruzan,Jean,Xiao
 Bennett,Faruzan,Kazuha,Wanderer
 Bennett,Faruzan,Kazuha,Xiao
+Bennett,Faruzan,Layla,Wanderer
 Bennett,Faruzan,Mona,Wanderer
+Bennett,Faruzan,Rosaria,Wanderer
+Bennett,Faruzan,Sucrose,Xiao
 Bennett,Faruzan,Thoma,Xiao
 Bennett,Faruzan,Venti,Wanderer
+Bennett,Faruzan,Venti,Zhongli
 Bennett,Faruzan,Wanderer,Xiangling
 Bennett,Faruzan,Wanderer,Xingqiu
 Bennett,Faruzan,Wanderer,Yun Jin
@@ -3663,6 +3645,7 @@ Bennett,Fischl,Kaeya,Venti
 Bennett,Fischl,Kaeya,Xingqiu
 Bennett,Fischl,Kazuha,Keqing
 Bennett,Fischl,Kazuha,Klee
+Bennett,Fischl,Kazuha,Kokomi
 Bennett,Fischl,Kazuha,Nahida
 Bennett,Fischl,Kazuha,Raiden
 Bennett,Fischl,Kazuha,Sara
@@ -3791,6 +3774,7 @@ Bennett,Ganyu,Razor,Xingqiu
 Bennett,Ganyu,Razor,Xinyan
 Bennett,Ganyu,Razor,Yelan
 Bennett,Ganyu,Razor,Zhongli
+Bennett,Ganyu,Rosaria,Xiangling
 Bennett,Ganyu,Shenhe,TravelerDendro
 Bennett,Ganyu,Shenhe,Xiangling
 Bennett,Ganyu,Sucrose,Thoma
@@ -5928,7 +5912,6 @@ Dori,Lisa,Venti,Xingqiu
 Dori,Lisa,Venti,Yelan
 Dori,Mona,Nahida,Razor
 Dori,Mona,Nahida,Tartaglia
-Dori,Mona,Razor,TravelerDendro
 Dori,Mona,Tartaglia,TravelerDendro
 Dori,Nahida,Raiden,Tartaglia
 Dori,Nahida,Raiden,Tighnari
@@ -6238,8 +6221,6 @@ Faruzan,Wanderer,Xingqiu,Yelan
 Faruzan,Wanderer,Yun Jin,Zhongli
 Faruzan,Xiao,Xingqiu,Zhongli
 Faruzan,Xiao,Yelan,Zhongli
-Fischl,Ganyu,Kokomi,Razor
-Fischl,Ganyu,Qiqi,Razor
 Fischl,Ganyu,Razor,Zhongli
 Fischl,Gorou,Itto,Zhongli
 Fischl,Gorou,Kaeya,Noelle
@@ -7674,8 +7655,6 @@ Kazuha,Kokomi,Xiao,Yelan
 Kazuha,Kokomi,Xiao,Zhongli
 Kazuha,Kokomi,Xingqiu,Yelan
 Kazuha,Kokomi,Yelan,Yun Jin
-Kazuha,Layla,Mona,Qiqi
-Kazuha,Layla,Mona,Rosaria
 Kazuha,Layla,Mona,Shenhe
 Kazuha,Layla,Qiqi,Rosaria
 Kazuha,Layla,Qiqi,Shenhe
@@ -8341,8 +8320,6 @@ Lisa,Venti,Yae,Yaoyao
 Lisa,Venti,Yae,Zhongli
 Lisa,Yae,Yaoyao,Zhongli
 Mona,Nahida,Qiqi,Raiden
-Mona,Nahida,Raiden,Sayu
-Mona,Nahida,Raiden,Shinobu
 Mona,Nahida,Raiden,Zhongli
 Mona,Nahida,Razor,Shinobu
 Mona,Nahida,Razor,Zhongli
@@ -8455,6 +8432,7 @@ Nahida,Shinobu,Tighnari,Yae
 Nahida,Shinobu,TravelerElectro,Venti
 Nahida,Shinobu,Venti,Xingqiu
 Nahida,Shinobu,Venti,Yae
+Nahida,Shinobu,Wanderer,Xingqiu
 Nahida,Shinobu,Xingqiu,Yelan
 Nahida,Shinobu,Xingqiu,Zhongli
 Nahida,Shinobu,Yelan,Zhongli
@@ -8831,7 +8809,6 @@ Shenhe,Shinobu,Yae,Yelan
 Shenhe,Thoma,Xingqiu,Yae
 Shenhe,Xingqiu,Yae,Zhongli
 Shenhe,Yae,Yelan,Zhongli
-Shinobu,Sucrose,Tartaglia,Yaoyao
 Shinobu,Sucrose,Tighnari,Yae
 Shinobu,Sucrose,TravelerDendro,Xingqiu
 Shinobu,Sucrose,TravelerDendro,Yae
@@ -8910,3 +8887,7 @@ Xingqiu,Yelan,Yoimiya,Zhongli
 Xingqiu,Yoimiya,Yun Jin,Zhongli
 Yae,Yelan,Yoimiya,Zhongli
 Yelan,Yoimiya,Yun Jin,Zhongli
+Albedo,Fischl,Gorou,Itto
+Albedo,Gorou,Itto,Mona
+Albedo,Gorou,Itto,Yanfei
+Albedo,Beidou,Gorou,Itto
