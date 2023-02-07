@@ -89,7 +89,7 @@ print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 print("PULLING DATA FROM AKASHA DATA")
 print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 
-threshold = 15
+threshold = 5
 SCROLL_PAUSE_TIME = 2.0
 
 playerlinks = {}
