@@ -2,6 +2,10 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 def extractTeam(elements):
     result = []
@@ -30,35 +34,45 @@ def loadData(f1):
         # Wait to load page
         time.sleep(SCROLL_PAUSE_TIME)
 
-        # Pull team data
-        divsbase = driver.find_element(By.ID, "team_list_table").find_element(By.TAG_NAME, 'tbody')
-        teamdivs = []
-        teamdivs += divsbase.find_elements(By.CLASS_NAME, "even")
-        teamdivs += divsbase.find_elements(By.CLASS_NAME, "odd")
+        initialElementSearch = ".//li[contains(@class, 'paginate_button') and .//text()='" + str(pageNum+1) + "']"
 
-        # Parse each entry
-        for item in teamdivs:
-            # Grab completion counts, if less than threshold we stop
-            teamCount = item.find_element("xpath", ".//td[contains(@class, 'dt-team-count')]").find_element("xpath", ".//div[contains(@class, 'fs-7 text-muted fw-bolder pt-1 text-center')]").text
-            if int(teamCount) < threshold:
-                endparse = False
-                print("FOUND END OF LIST AT THRESHOLD CUTOFF, STOPPING")
-                break
+        delay = 15 # seconds
+        try:
+            myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.XPATH, initialElementSearch)))
+            print("Page is ready!")
 
-            # Pull data from first half
-            right = item.find_element("xpath", ".//td[contains(@class, 'dt-right')]").find_element(By.XPATH, ".//div").find_elements("xpath", ".//div[contains(@class, 'team-image-div')]")
-            teamaggregates.append(extractTeam(right))
+            # Pull team data
+            divsbase = driver.find_element(By.ID, "team_list_table").find_element(By.TAG_NAME, 'tbody')
+            teamdivs = []
+            teamdivs += divsbase.find_elements(By.CLASS_NAME, "even")
+            teamdivs += divsbase.find_elements(By.CLASS_NAME, "odd")
 
-            # Pull data from second half
-            left = item.find_element("xpath", ".//td[contains(@class, 'dt-left')]").find_element(By.XPATH, ".//div").find_elements("xpath", ".//div[contains(@class, 'team-image-div')]")
-            teamaggregates.append(extractTeam(left))
+            # Parse each entry
+            for item in teamdivs:
+                # Grab completion counts, if less than threshold we stop
+                teamCount = item.find_element("xpath", ".//td[contains(@class, 'dt-team-count')]").find_element("xpath", ".//div[contains(@class, 'fs-7 text-muted fw-bolder pt-1 text-center')]").text
+                if int(teamCount) < threshold:
+                    endparse = False
+                    print("FOUND END OF LIST AT THRESHOLD CUTOFF, STOPPING")
+                    break
 
-        # Next button
-        pageNum += 1
-        elementSearch = ".//li[contains(@class, 'paginate_button') and .//text()='" + str(pageNum) + "']"
-        nextButton = driver.find_element("xpath", elementSearch).click()
+                # Pull data from first half
+                right = item.find_element("xpath", ".//td[contains(@class, 'dt-right')]").find_element(By.XPATH, ".//div").find_elements("xpath", ".//div[contains(@class, 'team-image-div')]")
+                teamaggregates.append(extractTeam(right))
 
-        print("LOADING NEXT PAGE: " + str(pageNum))
+                # Pull data from second half
+                left = item.find_element("xpath", ".//td[contains(@class, 'dt-left')]").find_element(By.XPATH, ".//div").find_elements("xpath", ".//div[contains(@class, 'team-image-div')]")
+                teamaggregates.append(extractTeam(left))
+
+            # Next button
+            pageNum += 1
+            elementSearch = ".//li[contains(@class, 'paginate_button') and .//text()='" + str(pageNum) + "']"
+            nextButton = driver.find_element("xpath", elementSearch).click()
+
+            print("LOADING NEXT PAGE: " + str(pageNum))
+        
+        except TimeoutException:
+            print("Loading took too much time!")
 
     print("CONVERTING AND WRITING TO CSV")
 
@@ -81,7 +95,8 @@ mappings = {
     "yunjin": "Yun Jin",
     "feiyan": "Yan Fei",
     "hutao": "Hu Tao",
-    "traveler_girl": "Traveler"
+    "traveler_girl": "Traveler",
+    "traveler_boy": "Traveler"
 }
 
 # Main function start
@@ -90,7 +105,7 @@ print("PULLING DATA FROM AKASHA DATA")
 print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 
 threshold = 5
-SCROLL_PAUSE_TIME = 2.0
+SCROLL_PAUSE_TIME = 3.0
 
 playerlinks = {}
 

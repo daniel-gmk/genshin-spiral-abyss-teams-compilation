@@ -54,9 +54,8 @@ for character in characterList:
 
 print("SANITIZING TEAMS")
 # Remove teams less than 4
-for team in teamsList:
-    if len(team) < 4:
-        teamsList.remove(team)
+
+teamsList = np.array([row for row in teamsList if len(row)==4])
 
 # Convert to Numpy array
 teamsListNP = np.array(teamsList, dtype=str)

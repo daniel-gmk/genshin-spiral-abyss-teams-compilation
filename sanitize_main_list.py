@@ -4,11 +4,6 @@ import json
 import numpy as np
 import numba as nb
 
-primarySustain = ["Hu Tao", "Beidou", "Thoma", "Layla", "Xinyan"]
-secondarySustain = ["Xingqiu"]
-fullSustain = ["Barbara", "Bennett", "Diona", "Dori", "Jean", "Shinobu", "Noelle", "Qiqi", "Kokomi", "Sayu", "Zhongli"]
-freezeTeamBans = ["dendro", "electro", "geo", "pyro"]
-
 def setdiff2d_bc(arr1, arr2):
     idx = (arr1[:, None] != arr2).any(-1).all(1)
     return arr1[idx]
