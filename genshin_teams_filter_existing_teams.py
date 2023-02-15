@@ -49,6 +49,9 @@ denyListAppend = np.empty((0, 4), str)
 travelerReview = np.empty((0, 4), str)
 
 for filename in os.listdir(directory):
+    if ".gitkeep" == filename:
+        continue
+
     processFile = os.path.join(directory, filename)
     if os.stat(processFile).st_size != 0:
         # Remove listings less than 4 rows
@@ -74,7 +77,7 @@ for filename in os.listdir(directory):
         # Removing duplicates
         uniqueConvert = [tuple(row) for row in data]
         data = np.unique(uniqueConvert, axis=0)
-        
+
         # Remove entries that are already in main sheet and other sheets
         data = setdiff2d_bc(data, mainFileArray)
         data = setdiff2d_bc(data, mainData)
