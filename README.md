@@ -50,9 +50,9 @@ Currently the data here is supplied by the following:
 
 To start the entire automated process, you MUST:
 
-- Create a "inputs" and "outputs" folder in this repository
-- Have the below folder structure:
-- Run with Run.bat on Windows (or port it to a .sh script if you're on Mac or Linux)
+1. Install Python requirements by running `pip install -r requirements.txt`
+2. Create the file structure shown below
+3. Run `Run.bat` on Windows or `run.sh` on Linux/MacOS
 
 ```
 Root
@@ -65,13 +65,15 @@ Root
 │       └───raw_csvs
 │               │Spiral Stats csvs
 └─── This repository
-        │ inputs folder (can be empty)
-        │ outputs folder (can be empty)
+        │ inputs folder
+        │ outputs folder
         │ denyList.csv (This is a csv of comps from the automated sources that are to not be added or recommended)
         │ Python Scripts
         │ genshinTeamsNamed.csv
-        │ Run.bat (or linux/mac equivalent)
-        | Sanitize.bat (or linux/mac equivalent)
+        │ Run.bat
+        │ run.sh
+        | Sanitize.bat
+        | sanitize.sh
 ```
 
 Once everything finishes running, you will have the following outputs:
