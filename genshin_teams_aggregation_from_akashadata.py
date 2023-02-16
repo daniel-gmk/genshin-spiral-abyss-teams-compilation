@@ -1,128 +1,70 @@
-import time
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+#!env python
+
+import csv
+import json
+import requests
 
 
-def extractTeam(elements):
-    result = []
-    for element in elements:
-        image = element.find_element(By.XPATH, ".//img").get_attribute("src")
-        image = image[:-4]
-        image = image[41:]
-        # Convert mappings, if not mapping needed just Capitalize
-        if image in mappings.keys():
-            image = mappings[image]
-        else:
-            image = image.capitalize()
-        result.append(image)
-    return result
+def get_character_data():
+    res = requests.get("https://t.akashadata.com/xstatic/json/static_card_dict.js").text
+    return json.loads(res[res.find("=") + 1:])
 
-def loadData(f1):
-    endparse = True
-    pageNum = 1
 
-    print("LOADING PAGES UNTIL TEAM DOES NOT HAVE AS MANY USES AS THRESHOLD")
+def get_teams(usage_threshold, batch=100):
+    teams = []
 
-    teamaggregates = []
+    while len(teams) < 1 or teams[-1]["team_count"] >= usage_threshold:
+        res = requests.get("https://akashadata.com/get_team_list", params={
+            "team_floor": 12,
+            "start": len(teams),
+            "length": batch,
+        }).json()
 
-    while (endparse == True):
+        print(f"Teams requested: {(len(teams) + batch) * 2}")
+        teams.extend(json.loads(res)["data"])
 
-        # Wait to load page
-        time.sleep(SCROLL_PAUSE_TIME)
+    return list(filter(lambda x: x["team_count"] >= usage_threshold, teams))
 
-        initialElementSearch = ".//li[contains(@class, 'paginate_button') and .//text()='" + str(pageNum+1) + "']"
 
-        delay = 15 # seconds
-        try:
-            myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.XPATH, initialElementSearch)))
-            print("Page is ready!")
+def fix_character_name(name):
+    if name.startswith("traveler"):
+        return "Traveler"
 
-            # Pull team data
-            divsbase = driver.find_element(By.ID, "team_list_table").find_element(By.TAG_NAME, 'tbody')
-            teamdivs = []
-            teamdivs += divsbase.find_elements(By.CLASS_NAME, "even")
-            teamdivs += divsbase.find_elements(By.CLASS_NAME, "odd")
+    try:
+        return {
+            "alhatham": "Alhaitham",
+            "feiyan": "Yan Fei",
+            "hutao": "Hu Tao",
+            "pingzang": "Heizou",
+            "shougun": "Raiden",
+            "yaemiko": "Yae",
+            "yunjin": "Yun Jin",
+        }[name]
+    except KeyError:
+        return name.capitalize()
 
-            # Parse each entry
-            for item in teamdivs:
-                # Grab completion counts, if less than threshold we stop
-                teamCount = item.find_element("xpath", ".//td[contains(@class, 'dt-team-count')]").find_element("xpath", ".//div[contains(@class, 'fs-7 text-muted fw-bolder pt-1 text-center')]").text
-                if int(teamCount) < threshold:
-                    endparse = False
-                    print("FOUND END OF LIST AT THRESHOLD CUTOFF, STOPPING")
-                    break
 
-                # Pull data from first half
-                right = item.find_element("xpath", ".//td[contains(@class, 'dt-right')]").find_element(By.XPATH, ".//div").find_elements("xpath", ".//div[contains(@class, 'team-image-div')]")
-                teamaggregates.append(extractTeam(right))
+def process_team(team, character_data):
+    return list(map(lambda i: fix_character_name(character_data[i]["icon"]), team.split(",")))
 
-                # Pull data from second half
-                left = item.find_element("xpath", ".//td[contains(@class, 'dt-left')]").find_element(By.XPATH, ".//div").find_elements("xpath", ".//div[contains(@class, 'team-image-div')]")
-                teamaggregates.append(extractTeam(left))
 
-            # Next button
-            pageNum += 1
-            elementSearch = ".//li[contains(@class, 'paginate_button') and .//text()='" + str(pageNum) + "']"
-            nextButton = driver.find_element("xpath", elementSearch).click()
+def flatten(li):
+    return [item for sublist in li for item in sublist]
 
-            print("LOADING NEXT PAGE: " + str(pageNum))
-        
-        except TimeoutException:
-            print("Loading took too much time!")
 
-    print("CONVERTING AND WRITING TO CSV")
-
-    for team in teamaggregates:
-        if len(team) < 4:
-            continue
-        counter = 0
-        for character in team:
-            f1.write(character)
-            if counter < 3:
-                f1.write(",")
-            counter += 1
-        f1.write("\n")
-
-mappings = {
-    "pingzang": "Heizou",
-    "alhatham": "Alhaitham",
-    "yaemiko": "Yae",
-    "shougun": "Raiden",
-    "yunjin": "Yun Jin",
-    "feiyan": "Yan Fei",
-    "hutao": "Hu Tao",
-    "traveler_girl": "Traveler",
-    "traveler_boy": "Traveler"
-}
-
-# Main function start
 print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 print("PULLING DATA FROM AKASHA DATA")
 print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 
-threshold = 5
-SCROLL_PAUSE_TIME = 3.0
+chars = get_character_data()
+teams = get_teams(5)
 
-playerlinks = {}
+out = flatten(
+    [(process_team(t["up_cards"], chars), process_team(t["down_cards"], chars)) for t in teams]
+)
 
-driver = webdriver.Chrome()
-driver.get("https://akashadata.com/team/")
-
-print("LOADING PAGE")
-
-# sleep for some time
-time.sleep(5)
-
-with open("./inputs/genshinTeamsExportFromAkashaData.csv",'w') as f1:
-        print("LOADING DATA")
-
-        loadData(f1)
-
-f1.close()
-driver.close()
+with open("./inputs/genshinTeamsExportFromAkashaData.csv", "w") as f:
+    writer = csv.writer(f)
+    writer.writerows(out)
 
 print("COMPLETE")
