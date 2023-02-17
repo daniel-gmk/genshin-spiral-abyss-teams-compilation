@@ -24,11 +24,6 @@ def parse_characters(team_el):
     return [fix_character_name(char_el.text) for char_el in char_els]
 
 
-def parse_teams(tier_el):
-    team_els = tier_el.find_all("div", class_="character-list")
-    return [parse_characters(team_el) for team_el in team_els]
-
-
 print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 print("PULLING DATA FROM GENSHIN.GG")
 print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
@@ -36,16 +31,14 @@ print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 
 page = requests.get("https://genshin.gg/teams/")
 document = BeautifulSoup(page.content, "html.parser")
-tier_els = document.find_all("div", class_="tier-list-teams")
+team_els = document.find_all("div", class_="character-list")
 
-out = [parse_teams(tier_el) for tier_el in tier_els]
+out = [parse_characters(team_el) for team_el in team_els]
 
 
-for i, suffix in enumerate(["Top", "Other"]):
-    file_name = "genshinTeamsExportFromGenshinGG" + suffix
-    with open(f"./inputs/{file_name}.csv", "w") as f:
-        writer = csv.writer(f)
-        writer.writerows(out[i])
+with open("./inputs/genshinTeamsExportFromGenshinGG.csv", "w") as f:
+    writer = csv.writer(f)
+    writer.writerows(out)
 
 
 print("COMPLETE")
