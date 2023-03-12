@@ -29,6 +29,7 @@ print("LOADING MAIN CSV TO COMPARE AGAINST")
 
 fr = open(mainFileName, 'r')
 mainFileArray = np.loadtxt(fr, delimiter=",", dtype=str)
+mainFileArray = mainFileArray[:, :-1]
 mainFileArray = np.sort(mainFileArray)
 fr.close()
 
