@@ -6,7 +6,7 @@ import numba as nb
 
 primarySustain = ["Hu Tao", "Beidou", "Thoma", "Xinyan"]
 secondarySustain = ["Xingqiu"]
-fullSustain = ["Barbara", "Bennett", "Diona", "Dori", "Jean", "Shinobu", "Noelle", "Qiqi", "Kokomi", "Sayu", "Zhongli", "Layla", "Yaoyao"]
+fullSustain = ["Barbara", "Bennett", "Diona", "Dori", "Jean", "Shinobu", "Noelle", "Qiqi", "Kokomi", "Sayu", "Zhongli", "Layla", "Yaoyao", "Mika"]
 freezeTeamBans = ["dendro", "electro", "geo", "pyro"]
 
 def setdiff2d_bc(arr1, arr2):

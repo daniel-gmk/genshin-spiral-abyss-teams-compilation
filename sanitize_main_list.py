@@ -28,7 +28,7 @@ mainFileArray = mainFileArray[np.lexsort((mainFileArray[:,3], mainFileArray[:,2]
 
 # Removing duplicates
 uniqueConvert = [tuple(row) for row in mainFileArray]
-mainFileArray = np.unique(uniqueConvert[:-1], axis=0)
+mainFileArray = np.unique(uniqueConvert, axis=0)
 
 # Append data to aggregatedTeams
 
