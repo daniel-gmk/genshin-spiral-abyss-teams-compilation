@@ -773,6 +773,7 @@ Alhaitham,Dehya,Xingqiu,Zhongli,4
 Alhaitham,Dehya,Yaoyao,Yelan,4
 Alhaitham,Dehya,Yelan,Zhongli,4
 Alhaitham,Diona,Fischl,Nahida,5
+Alhaitham,Diona,Fischl,Yae,5
 Alhaitham,Diona,Raiden,Xingqiu,5
 Alhaitham,Diona,Thoma,Xingqiu,4
 Alhaitham,Diona,Thoma,Yelan,4
@@ -1649,6 +1650,7 @@ Ayaka,Shenhe,Venti,Yelan,5
 Ayaka,Shenhe,Venti,Zhongli,4
 Ayaka,Shenhe,Yun Jin,Zhongli,3
 Ayaka,Sucrose,Xiangling,Zhongli,3
+Ayaka,Thoma,Xingqiu,Yaoyao,2
 Ayaka,Venti,Xiangling,Zhongli,3
 Ayato,Barbara,Beidou,Collei,2
 Ayato,Barbara,Beidou,Nahida,3
@@ -1864,6 +1866,7 @@ Ayato,Collei,Jean,TravelerDendro,2
 Ayato,Collei,Jean,Xingqiu,3
 Ayato,Collei,Jean,Yae,3
 Ayato,Collei,Jean,Yelan,3
+Ayato,Collei,Kazuha,Shinobu,4
 Ayato,Collei,Kokomi,Mona,3
 Ayato,Collei,Kokomi,Nahida,3
 Ayato,Collei,Kokomi,Nilou,2
@@ -1908,6 +1911,7 @@ Ayato,Cyno,TravelerDendro,Zhongli,3
 Ayato,Dehya,Fischl,Yaoyao,4
 Ayato,Dehya,Kokomi,Nahida,4
 Ayato,Dehya,Kokomi,TravelerDendro,3
+Ayato,Dehya,Nahida,Shinobu,5
 Ayato,Dehya,Nahida,Yaoyao,4
 Ayato,Dehya,Nahida,Zhongli,4
 Ayato,Dehya,TravelerDendro,Yaoyao,3
@@ -1998,6 +2002,7 @@ Ayato,Fischl,Shinobu,TravelerDendro,4
 Ayato,Fischl,Shinobu,Yun Jin,3
 Ayato,Fischl,Sucrose,Yaoyao,3
 Ayato,Fischl,Sucrose,Zhongli,3
+Ayato,Fischl,Thoma,Yaoyao,3
 Ayato,Fischl,TravelerDendro,Zhongli,3
 Ayato,Fischl,Venti,Zhongli,3
 Ayato,Fischl,Xingqiu,Yun Jin,4
@@ -3097,6 +3102,7 @@ Beidou,Kokomi,Nahida,TravelerDendro,3
 Beidou,Kokomi,Nahida,Xiangling,3
 Beidou,Kokomi,Nahida,Xingqiu,3
 Beidou,Kokomi,Nahida,Yelan,3
+Beidou,Kokomi,Raiden,TravelerDendro,3
 Beidou,Kokomi,Razor,Rosaria,2
 Beidou,Kokomi,Razor,Shenhe,2
 Beidou,Kokomi,Razor,TravelerDendro,2
@@ -4046,6 +4052,7 @@ Bennett,Layla,Nahida,Yelan,3
 Bennett,Layla,Rosaria,Sucrose,2
 Bennett,Layla,Rosaria,TravelerAnemo,1
 Bennett,Layla,Rosaria,Venti,2
+Bennett,Layla,Rosaria,Yoimiya,4
 Bennett,Layla,Shenhe,Sucrose,2
 Bennett,Layla,Shenhe,TravelerAnemo,1
 Bennett,Layla,Shenhe,Venti,2
@@ -4532,6 +4539,7 @@ Candace,Kokomi,Nahida,Nilou,2
 Candace,Kokomi,Nahida,Tartaglia,2
 Candace,Kokomi,Nilou,TravelerDendro,1
 Candace,Kokomi,Tartaglia,TravelerDendro,1
+Candace,Kokomi,Xingqiu,Yelan,4
 Candace,Layla,Nahida,Shinobu,2
 Candace,Layla,Nahida,Xinyan,1
 Candace,Layla,Qiqi,Sayu,1
@@ -4676,6 +4684,7 @@ Chongyun,Kazuha,Layla,Yelan,3
 Chongyun,Kazuha,Qiqi,Shenhe,4
 Chongyun,Kazuha,Rosaria,Xingqiu,4
 Chongyun,Kazuha,Rosaria,Yelan,4
+Chongyun,Kazuha,Xingqiu,Yelan,4
 Chongyun,Kokomi,Layla,Sucrose,2
 Chongyun,Kokomi,Layla,TravelerAnemo,1
 Chongyun,Kokomi,Layla,Venti,2
@@ -4753,6 +4762,7 @@ Collei,Cyno,Yae,Zhongli,2
 Collei,Cyno,Yaoyao,Zhongli,1
 Collei,Dehya,Fischl,Kokomi,3
 Collei,Dehya,Kazuha,Kokomi,3
+Collei,Dehya,Kazuha,Yaoyao,2
 Collei,Dehya,Kokomi,Nahida,4
 Collei,Dehya,Kokomi,TravelerDendro,4
 Collei,Dehya,Kokomi,Venti,3
@@ -4846,6 +4856,7 @@ Collei,Fischl,Kokomi,Mona,3
 Collei,Fischl,Kokomi,Nahida,4
 Collei,Fischl,Kokomi,Raiden,4
 Collei,Fischl,Kokomi,Razor,2
+Collei,Fischl,Kokomi,Shinobu,3
 Collei,Fischl,Kokomi,Sucrose,3
 Collei,Fischl,Kokomi,Tartaglia,3
 Collei,Fischl,Kokomi,Tighnari,5
@@ -4873,6 +4884,7 @@ Collei,Fischl,Shinobu,Sucrose,1
 Collei,Fischl,Shinobu,Tartaglia,2
 Collei,Fischl,Shinobu,Tighnari,5
 Collei,Fischl,Shinobu,Venti,1
+Collei,Fischl,Shinobu,Xingqiu,4
 Collei,Fischl,Sucrose,Yaoyao,1
 Collei,Fischl,Tartaglia,Zhongli,2
 Collei,Fischl,Thoma,Xingqiu,3
@@ -5330,6 +5342,7 @@ Dehya,Fischl,Kokomi,Nahida,4
 Dehya,Fischl,Kokomi,TravelerDendro,3
 Dehya,Fischl,Xingqiu,Yaoyao,4
 Dehya,Fischl,Yaoyao,Yelan,4
+Dehya,Hu Tao,Kazuha,Xingqiu,5
 Dehya,Kazuha,Kokomi,Nahida,4
 Dehya,Kazuha,Kokomi,TravelerDendro,3
 Dehya,Kokomi,Nahida,TravelerDendro,4
@@ -5977,7 +5990,9 @@ Eula,Fischl,Kazuha,Zhongli,4
 Eula,Fischl,Kokomi,Layla,3
 Eula,Fischl,Layla,Mika,3
 Eula,Fischl,Layla,Qiqi,3
+Eula,Fischl,Layla,Rosaria,3
 Eula,Fischl,Layla,Sayu,3
+Eula,Fischl,Layla,Shenhe,3
 Eula,Fischl,Layla,Shinobu,3
 Eula,Fischl,Layla,Xingqiu,4
 Eula,Fischl,Layla,Zhongli,3
@@ -6093,7 +6108,9 @@ Eula,Layla,Mona,Shinobu,1
 Eula,Layla,Qiqi,Raiden,3
 Eula,Layla,Qiqi,TravelerElectro,1
 Eula,Layla,Qiqi,Yae,3
+Eula,Layla,Raiden,Rosaria,4
 Eula,Layla,Raiden,Sayu,3
+Eula,Layla,Raiden,Shenhe,4
 Eula,Layla,Raiden,Shinobu,3
 Eula,Layla,Raiden,Xingqiu,4
 Eula,Layla,Raiden,Zhongli,3
@@ -6134,6 +6151,7 @@ Eula,Nahida,Raiden,Sayu,5
 Eula,Nahida,Raiden,Shinobu,5
 Eula,Nahida,Raiden,Zhongli,4
 Eula,Nahida,Shinobu,Xingqiu,5
+Eula,Nahida,Shinobu,Yelan,5
 Eula,Qiqi,Raiden,Rosaria,4
 Eula,Qiqi,Raiden,Sara,5
 Eula,Qiqi,Raiden,Shenhe,4
@@ -6499,6 +6517,7 @@ Fischl,Kokomi,Nahida,Razor,4
 Fischl,Kokomi,Nahida,Shinobu,4
 Fischl,Kokomi,Nahida,Sucrose,4
 Fischl,Kokomi,Nahida,Tartaglia,4
+Fischl,Kokomi,Nahida,Thoma,4
 Fischl,Kokomi,Nahida,Tighnari,5
 Fischl,Kokomi,Nahida,TravelerDendro,5
 Fischl,Kokomi,Nahida,Xiangling,4
@@ -6525,6 +6544,7 @@ Fischl,Kokomi,Sara,Tighnari,4
 Fischl,Kokomi,Sara,Venti,2
 Fischl,Kokomi,Shenhe,Xingqiu,3
 Fischl,Kokomi,Shenhe,Yelan,3
+Fischl,Kokomi,Shinobu,TravelerDendro,4
 Fischl,Kokomi,Sucrose,Tighnari,4
 Fischl,Kokomi,Sucrose,TravelerDendro,3
 Fischl,Kokomi,Sucrose,TravelerElectro,2
@@ -6534,6 +6554,7 @@ Fischl,Kokomi,Sucrose,Yae,2
 Fischl,Kokomi,Sucrose,Yaoyao,1
 Fischl,Kokomi,Sucrose,Yaoyao,2
 Fischl,Kokomi,Tartaglia,TravelerDendro,3
+Fischl,Kokomi,Thoma,TravelerDendro,3
 Fischl,Kokomi,Tighnari,TravelerDendro,5
 Fischl,Kokomi,Tighnari,Venti,4
 Fischl,Kokomi,Tighnari,Yae,5
@@ -6777,6 +6798,7 @@ Fischl,Tighnari,Venti,Yaoyao,5
 Fischl,Tighnari,Venti,Zhongli,5
 Fischl,Tighnari,Yae,Yaoyao,5
 Fischl,Tighnari,Yae,Zhongli,5
+Fischl,Tighnari,Yaoyao,Yelan,5
 Fischl,Tighnari,Yaoyao,Zhongli,5
 Fischl,TravelerDendro,Venti,Yaoyao,3
 Fischl,TravelerDendro,Yae,Yaoyao,4
@@ -7483,6 +7505,7 @@ Jean,Razor,TravelerDendro,Xingqiu,3
 Jean,Razor,TravelerDendro,Yae,3
 Jean,Razor,TravelerDendro,Yelan,3
 Jean,Rosaria,Shenhe,Tartaglia,3
+Jean,Rosaria,Shenhe,Yelan,3
 Jean,Rosaria,Xingqiu,Yae,3
 Jean,Rosaria,Yae,Yelan,3
 Jean,Sara,Sucrose,Tighnari,3
@@ -7672,6 +7695,7 @@ Kazuha,Kokomi,Mona,Raiden,3
 Kazuha,Kokomi,Mona,TravelerDendro,1
 Kazuha,Kokomi,Nahida,Raiden,5
 Kazuha,Kokomi,Nahida,Razor,4
+Kazuha,Kokomi,Nahida,Sara,3
 Kazuha,Kokomi,Nahida,Shinobu,5
 Kazuha,Kokomi,Nahida,Sucrose,1
 Kazuha,Kokomi,Nahida,TravelerDendro,2
@@ -7796,6 +7820,8 @@ Kazuha,Raiden,Yelan,Zhongli,4
 Kazuha,Razor,Shinobu,TravelerDendro,4
 Kazuha,Razor,TravelerDendro,Zhongli,4
 Kazuha,Rosaria,Shenhe,Tartaglia,3
+Kazuha,Rosaria,Shenhe,Xingqiu,4
+Kazuha,Rosaria,Shenhe,Yelan,4
 Kazuha,Sara,Sayu,Tighnari,4
 Kazuha,Sara,Shinobu,Tighnari,4
 Kazuha,Sara,Tighnari,Yaoyao,4
@@ -8463,6 +8489,7 @@ Mona,Razor,Shinobu,TravelerDendro,4
 Mona,Razor,TravelerDendro,Zhongli,4
 Mona,Sayu,Tartaglia,TravelerDendro,2
 Mona,Shinobu,Tartaglia,TravelerDendro,3
+Mona,Shinobu,Tighnari,Yaoyao,4
 Mona,Tartaglia,TravelerDendro,Zhongli,2
 Nahida,Nilou,Shinobu,Yelan,5
 Nahida,Nilou,Tartaglia,Yaoyao,2
@@ -8501,9 +8528,7 @@ Nahida,Raiden,Thoma,Xingqiu,5
 Nahida,Raiden,Tighnari,Yaoyao,5
 Nahida,Raiden,Tighnari,Zhongli,5
 Nahida,Raiden,TravelerDendro,Yaoyao,4
-Nahida,Raiden,Venti,Xingqiu,5
 Nahida,Raiden,Venti,Yaoyao,4
-Nahida,Raiden,Venti,Yelan,5
 Nahida,Raiden,Venti,Zhongli,4
 Nahida,Raiden,Xiangling,Zhongli,5
 Nahida,Raiden,Xiao,Zhongli,4
@@ -8550,7 +8575,9 @@ Nahida,Shinobu,Tartaglia,Xingqiu,5
 Nahida,Shinobu,Tartaglia,Yae,4
 Nahida,Shinobu,Tartaglia,Yelan,5
 Nahida,Shinobu,Thoma,Yelan,5
+Nahida,Shinobu,Tighnari,Xingqiu,5
 Nahida,Shinobu,Tighnari,Yae,5
+Nahida,Shinobu,Tighnari,Yelan,5
 Nahida,Shinobu,Tighnari,Zhongli,5
 Nahida,Shinobu,TravelerDendro,Xingqiu,5
 Nahida,Shinobu,TravelerElectro,Venti,2
@@ -8561,6 +8588,7 @@ Nahida,Shinobu,Xingqiu,Yae,5
 Nahida,Shinobu,Xingqiu,Yaoyao,5
 Nahida,Shinobu,Xingqiu,Yelan,5
 Nahida,Shinobu,Xingqiu,Zhongli,5
+Nahida,Shinobu,Yae,Yelan,5
 Nahida,Shinobu,Yelan,Zhongli,5
 Nahida,Sucrose,Thoma,Xingqiu,5
 Nahida,Tartaglia,Xingqiu,Zhongli,3
@@ -8570,6 +8598,7 @@ Nahida,Thoma,TravelerElectro,Xingqiu,4
 Nahida,Thoma,Xingqiu,Yae,5
 Nahida,Thoma,Xingqiu,Yaoyao,5
 Nahida,Thoma,Xingqiu,Yelan,5
+Nahida,Tighnari,Yae,Yaoyao,5
 Nahida,Tighnari,Yae,Zhongli,5
 Nahida,TravelerDendro,Yae,Zhongli,5
 Nahida,TravelerElectro,Yae,Zhongli,3
@@ -8577,6 +8606,7 @@ Nahida,Venti,Yae,Zhongli,3
 Nahida,Xiangling,Xingqiu,Zhongli,5
 Nahida,Xingqiu,Yae,Zhongli,5
 Nahida,Xingqiu,Yanfei,Zhongli,4
+Nahida,Yae,Yaoyao,Yelan,5
 Nahida,Yae,Yelan,Zhongli,5
 Nahida,Yelan,Yoimiya,Zhongli,5
 Nilou,Sayu,Xingqiu,Yelan,4
