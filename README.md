@@ -30,6 +30,8 @@ Likely setups the average AR55+ player has includes:
 - 4th ascension (60/70) support characters
 - Talent levels 6+ on most above characters for key abilities
 
+There is also a newly added difficulty system, and the rankings are also arbitrary. However you will see general differences between each tier in damage output, with the exception of grouping capabilities being weighed as well.
+
 &nbsp;
 
 ## Aggregation Method
